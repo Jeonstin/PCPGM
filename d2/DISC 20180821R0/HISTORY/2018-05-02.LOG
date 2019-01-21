@@ -1,0 +1,10 @@
+[05-02-2018] [18:16:45] : PROGRAM START
+[05-02-2018] [18:16:45] : load project PLC
+[05-02-2018] [18:16:45] : Loading of library 'Orbit_IF.dll' Failed 
+[05-02-2018] [18:16:51] : PROGRAM END
+ 
+[05-02-2018] [18:23:49] : PROGRAM START
+[05-02-2018] [18:23:49] : load project PLC
+[05-02-2018] [18:23:50] : Loading of library 'Orbit_IF.dll' Failed 
+[05-02-2018] [18:24:00] : PROGRAM END
+ 

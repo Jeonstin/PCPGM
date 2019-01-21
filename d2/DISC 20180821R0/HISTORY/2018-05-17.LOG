@@ -1,0 +1,16 @@
+[05-17-2018] [15:55:39] : PROGRAM START
+[05-17-2018] [15:55:39] : load project PLC
+[05-17-2018] [15:55:40] : Loading of library 'Orbit_IF.dll' Failed 
+[05-17-2018] [15:55:47] : Plc Error Timer
+[05-17-2018] [15:56:14] : PROGRAM END
+ 
+[05-17-2018] [16:13:42] : PROGRAM START
+[05-17-2018] [16:13:42] : load project PLC
+[05-17-2018] [16:13:43] : Loading of library 'Orbit_IF.dll' Failed 
+[05-17-2018] [16:13:51] : PROGRAM END
+ 
+[05-17-2018] [17:36:38] : PROGRAM START
+[05-17-2018] [17:36:38] : load project PLC
+[05-17-2018] [17:36:40] : Loading of library 'Orbit_IF.dll' Failed 
+[05-17-2018] [17:36:51] : PROGRAM END
+ 
