@@ -1,0 +1,13 @@
+[01-21-2019] [17:31:11] : PROGRAM START
+[01-21-2019] [17:31:11] : J080E2
+[01-21-2019] [17:31:13] : Loading of library 'Orbit_IF.dll' Failed 
+[01-21-2019] [17:31:24] : 712 - 4.000000
+[01-21-2019] [17:31:31] : Plc Error Timer
+[01-21-2019] [17:31:42] : PROGRAM END
+ 
+[01-21-2019] [17:35:44] : PROGRAM START
+[01-21-2019] [17:35:44] : J080E2
+[01-21-2019] [17:35:46] : Loading of library 'Orbit_IF.dll' Failed 
+[01-21-2019] [17:36:02] : Plc Error Timer
+[01-21-2019] [17:36:06] : PROGRAM END
+ 
