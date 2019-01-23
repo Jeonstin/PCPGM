@@ -6873,7 +6873,7 @@ int CVICALLBACK Data_R_View (int panel, int control, int event,
 
 void	Real_View_redraw(int file)
 {
-	int		i,no, j;
+	int		i,no, j,k;
 	double	dtemp[MAX_POINT];
 	char    temp[10], ctemp[20], DateStamp[50];
 //   char		*temp1[2][10];
