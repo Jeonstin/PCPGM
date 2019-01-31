@@ -820,6 +820,7 @@ void  ServoDataSend_Total(void)
 	
 }
 
+//Total, ok, ng 카운터 PLC로 전송 
 void  Sgs_Send(void)
 {
 	int		i, j;
@@ -837,9 +838,9 @@ void  Sgs_Send(void)
 		for( i = 0; i < 32; i++ )
 		{
 			if( data & bPos )
-				calc_out_data(pc512+j*32 + i, SET);
+				calc_out_data(pc640 + i, SET);
 			else
-				calc_out_data(pc512+j*32 + i, RESET);
+				calc_out_data(pc640 + i, RESET);
 			bPos <<= 1;
 		}
 	
@@ -855,9 +856,9 @@ void  Sgs_Send(void)
 		for( i = 0; i < 32; i++ )
 		{
 			if( data & bPos )
-				calc_out_data(pc544+j*32 + i, SET);
+				calc_out_data(pc656 + i, SET);
 			else
-				calc_out_data(pc544+j*32 + i, RESET);
+				calc_out_data(pc656 + i, RESET);
 			bPos <<= 1;
 		}
 	
@@ -873,9 +874,9 @@ void  Sgs_Send(void)
 		for( i = 0; i < 32; i++ )
 		{
 			if( data & bPos )
-				calc_out_data(pc576+j*32 + i, SET);
+				calc_out_data(pc672+ i, SET);
 			else
-				calc_out_data(pc576+j*32 + i, RESET);
+				calc_out_data(pc672 + i, RESET);
 			bPos <<= 1;
 		}
 	
