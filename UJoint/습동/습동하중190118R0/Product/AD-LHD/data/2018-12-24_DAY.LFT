@@ -1,0 +1,11 @@
+Model  AD-LHD
+Point_Num   2
+    NAME   하중_PUSH(L)   하중_PULL(L)               Time           Operator    TUBE BARCODE        SHAFT BARCODE          OK/NG
+    UNIT              2              2
+   K.TOL              0              0
+     USL           4.40           4.40
+     LSL           0.10           0.10
+       1           0.54           0.51   2018-12-24 17:40:33            남양공업       AL18121450916                          OK
+       2           0.86           1.02   2018-12-24 17:46:00            남양공업       AL18121450276                          OK
+       4           1.00           0.69   2018-12-24 17:57:17            남양공업       AL18121450366                          OK
+       6           0.70           0.70   2018-12-24 19:18:21            남양공업                                              OK

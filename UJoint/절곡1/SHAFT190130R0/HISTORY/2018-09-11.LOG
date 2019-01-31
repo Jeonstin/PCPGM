@@ -1,0 +1,76 @@
+ 
+[20:29:39] : MEAS ESC ON
+[20:29:39] : M3404 :	셔틀 리프트 하상 알람 ON
+[20:29:54] : MEAS ESC OFF
+[20:29:54] : RESET ON
+[20:29:54] : M3404 :	셔틀 리프트 하상 알람 OFF
+[20:30:04] : MEAS ESC ON
+[20:30:04] : M3404 :	셔틀 리프트 하상 알람 ON
+[20:30:07] : MEAS ESC OFF
+[20:30:07] : RESET ON
+[20:30:07] : M3404 :	셔틀 리프트 하상 알람 OFF
+[20:30:17] : MEAS ESC ON
+[20:30:17] : M3404 :	셔틀 리프트 하상 알람 ON
+[20:30:19] : MEAS ESC OFF
+[20:30:19] : RESET ON
+[20:30:19] : M3404 :	셔틀 리프트 하상 알람 OFF
+[20:55:48] : MEAS ESC ON
+[20:55:48] : M3403 :	셔틀 유닛 전후 알람 ON
+[20:55:51] : MEAS ESC OFF
+[20:55:51] : RESET ON
+[20:55:51] : M3403 :	셔틀 유닛 전후 알람 OFF
+[20:56:01] : MEAS ESC ON
+[20:56:01] : M3407 :	기종교환 유닛 전후 알람 ON
+[20:56:20] : MEAS ESC OFF
+[20:56:20] : RESET ON
+[20:56:20] : M3407 :	기종교환 유닛 전후 알람 OFF
+[20:56:21] : RESET ON
+[20:56:31] : MEAS ESC ON
+[20:56:31] : M3407 :	기종교환 유닛 전후 알람 ON
+[20:57:26] : MEAS ESC OFF
+[20:57:26] : RESET ON
+[20:57:26] : M3407 :	기종교환 유닛 전후 알람 OFF
+[20:58:02] : MEAS ESC ON
+[20:58:02] : M3403 :	셔틀 유닛 전후 알람 ON
+[20:58:04] : MEAS ESC OFF
+[20:58:04] : RESET ON
+[20:58:04] : M3403 :	셔틀 유닛 전후 알람 OFF
+[22:00:38] : MEAS ESC ON
+[22:00:38] : M3407 :	기종교환 유닛 전후 알람 ON
+[22:00:43] : MEAS ESC OFF
+[22:00:43] : RESET ON
+[22:00:43] : M3407 :	기종교환 유닛 전후 알람 OFF
+[22:00:53] : MEAS ESC ON
+[22:00:53] : M3407 :	기종교환 유닛 전후 알람 ON
+[22:01:22] : MEAS ESC OFF
+[22:01:22] : RESET ON
+[22:01:22] : M3407 :	기종교환 유닛 전후 알람 OFF
+[22:18:31] : Cycle start ON
+[22:18:34] : Cycle start OFF
+[22:18:40] : REQUEST MEAS. ON
+[22:18:43] : REQUEST MEAS. OFF
+[22:19:32] : Cycle start ON
+[22:19:34] : Cycle start OFF
+[22:19:41] : REQUEST MEAS. ON
+[22:19:43] : REQUEST MEAS. OFF
+[22:19:55] : Cycle start ON
+[22:19:58] : Cycle start OFF
+[22:20:04] : REQUEST MEAS. ON
+[22:20:07] : REQUEST MEAS. OFF
+[22:20:20] : Cycle start ON
+[22:20:23] : Cycle start OFF
+[22:20:29] : REQUEST MEAS. ON
+[22:20:32] : REQUEST MEAS. OFF
+[22:20:47] : Cycle start ON
+[22:20:50] : Cycle start OFF
+[22:20:56] : REQUEST MEAS. ON
+[22:20:59] : REQUEST MEAS. OFF
+[22:21:08] : Cycle start ON
+[22:21:11] : Cycle start OFF
+[22:21:17] : REQUEST MEAS. ON
+[22:21:20] : REQUEST MEAS. OFF
+[22:33:13] : Cycle start ON
+[22:33:15] : Cycle start OFF
+[22:33:22] : REQUEST MEAS. ON
+[22:33:25] : REQUEST MEAS. OFF
+ 

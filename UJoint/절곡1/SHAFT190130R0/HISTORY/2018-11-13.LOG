@@ -1,0 +1,49 @@
+[11:22:52] : MEAS ESC ON
+[11:22:52] : AUTO RUNNING ON
+[11:23:11] : Cycle start ON
+[11:23:13] : Cycle start OFF
+[11:31:30] : MEAS ESC OFF
+[11:31:30] : AUTO RUNNING OFF
+ 
+[13:17:04] : Cycle start ON
+[13:17:05] : Cycle start OFF
+[13:17:51] : REQUEST MEAS. ON
+[13:18:00] : REQUEST MEAS. OFF
+[13:18:00] : 측정요구 ON 2
+[13:18:09] : 측정요구 2OFF
+[13:18:13] : 측정요구3 ON
+[13:18:22] : 측정요구3 OFF
+[13:18:22] : 측정요구4 ON
+[13:18:32] : 측정요구4 OFF
+[13:20:43] : Cycle start ON
+[13:20:43] : Cycle start OFF
+[13:20:48] : REQUEST MEAS. ON
+[13:20:57] : REQUEST MEAS. OFF
+[13:20:57] : 측정요구 ON 2
+[13:21:07] : 측정요구 2OFF
+[13:21:11] : 측정요구3 ON
+[13:21:20] : 측정요구3 OFF
+[13:21:20] : 측정요구4 ON
+[13:21:30] : 측정요구4 OFF
+[13:27:15] : Cycle start ON
+[13:27:15] : Cycle start OFF
+[13:27:20] : REQUEST MEAS. ON
+[13:27:29] : REQUEST MEAS. OFF
+[13:27:29] : 측정요구 ON 2
+[13:27:39] : 측정요구 2OFF
+[13:27:43] : 측정요구3 ON
+[13:27:52] : 측정요구3 OFF
+[13:27:52] : 측정요구4 ON
+[13:28:02] : 측정요구4 OFF
+[13:31:24] : Cycle start ON
+[13:31:24] : Cycle start OFF
+[13:31:29] : REQUEST MEAS. ON
+[13:31:38] : REQUEST MEAS. OFF
+[13:31:38] : 측정요구 ON 2
+[13:31:48] : 측정요구 2OFF
+[13:31:52] : 측정요구3 ON
+[13:32:01] : 측정요구3 OFF
+[13:32:01] : 측정요구4 ON
+[13:32:10] : 측정요구4 OFF
+[17:36:26] : Plc Error Timer
+ 

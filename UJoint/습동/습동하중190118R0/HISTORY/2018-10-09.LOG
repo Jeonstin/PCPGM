@@ -1,0 +1,245 @@
+[09:11:31] : Cycle start ON
+[09:11:32] : Cycle start OFF
+[09:11:41] : REQUEST ZEROSET ON
+[09:11:43] : REQUEST ZEROSET OFF
+[09:11:57] : Cycle start ON
+[09:11:59] : Cycle start OFF
+[09:12:07] : REQUEST ZEROSET ON
+[09:12:10] : REQUEST ZEROSET OFF
+[09:12:31] : Cycle start ON
+[09:12:34] : Cycle start OFF
+[09:12:41] : REQUEST MEAS. ON
+[09:12:44] : REQUEST MEAS. OFF
+[09:22:46] : AUTO RUNNING ON
+[09:26:33] : Cycle start ON
+[09:26:35] : Cycle start OFF
+[09:26:43] : REQUEST MEAS. ON
+[09:26:46] : REQUEST MEAS. OFF
+[09:27:10] : Cycle start ON
+[09:27:13] : Cycle start OFF
+[09:27:20] : REQUEST MEAS. ON
+[09:27:23] : REQUEST MEAS. OFF
+[09:28:47] : Cycle start ON
+[09:28:50] : Cycle start OFF
+[09:28:57] : REQUEST MEAS. ON
+[09:29:00] : REQUEST MEAS. OFF
+[09:30:09] : Cycle start ON
+[09:30:12] : Cycle start OFF
+[09:30:20] : REQUEST MEAS. ON
+[09:30:22] : REQUEST MEAS. OFF
+[09:31:53] : Cycle start ON
+[09:31:56] : Cycle start OFF
+[09:32:03] : REQUEST MEAS. ON
+[09:32:06] : REQUEST MEAS. OFF
+[09:33:39] : Cycle start ON
+[09:33:41] : Cycle start OFF
+[09:33:49] : REQUEST MEAS. ON
+[09:33:52] : REQUEST MEAS. OFF
+[09:35:24] : Cycle start ON
+[09:35:26] : Cycle start OFF
+[09:35:34] : REQUEST MEAS. ON
+[09:35:37] : REQUEST MEAS. OFF
+[09:37:08] : Cycle start ON
+[09:37:11] : Cycle start OFF
+[09:37:19] : REQUEST MEAS. ON
+[09:37:22] : REQUEST MEAS. OFF
+[09:38:54] : Cycle start ON
+[09:38:56] : Cycle start OFF
+[09:39:04] : REQUEST MEAS. ON
+[09:39:07] : REQUEST MEAS. OFF
+[09:40:38] : Cycle start ON
+[09:40:41] : Cycle start OFF
+[09:40:48] : REQUEST MEAS. ON
+[09:40:51] : REQUEST MEAS. OFF
+[09:41:06] : AUTO RUNNING OFF
+[09:49:49] : PROGRAM END
+ 
+[09:49:53] : PROGRAM START
+[09:49:56] : AUTO RUNNING OFF
+[09:49:56] : REQUEST MEAS. OFF
+[09:49:56] : REQUEST ZEROSET OFF
+[09:49:56] : REQUEST ZEROSET OFF
+[09:50:33] : PROGRAM END
+ 
+[09:53:16] : PROGRAM START
+[09:53:19] : AUTO RUNNING OFF
+[09:53:19] : REQUEST MEAS. OFF
+[09:53:19] : REQUEST ZEROSET OFF
+[09:53:19] : REQUEST ZEROSET OFF
+[09:53:46] : MEAS ESC ON
+[09:53:46] : M3413 :	DOOR OPEN중 ON
+[09:53:55] : MEAS ESC OFF
+[09:53:55] : RESET ON
+[09:53:55] : M3413 :	DOOR OPEN중 OFF
+[09:53:59] : AUTO RUNNING ON
+[09:54:12] : AUTO RUNNING OFF
+[09:54:15] : AUTO RUNNING ON
+[09:54:33] : Cycle start ON
+[09:54:35] : Cycle start OFF
+[09:54:43] : REQUEST MEAS. ON
+[09:54:46] : REQUEST MEAS. OFF
+[09:55:49] : Cycle start ON
+[09:55:52] : Cycle start OFF
+[09:55:59] : REQUEST MEAS. ON
+[09:56:02] : REQUEST MEAS. OFF
+[09:57:11] : Cycle start ON
+[09:57:13] : Cycle start OFF
+[09:57:21] : REQUEST MEAS. ON
+[09:57:24] : REQUEST MEAS. OFF
+[09:58:37] : Cycle start ON
+[09:58:40] : Cycle start OFF
+[09:58:48] : REQUEST MEAS. ON
+[09:58:50] : REQUEST MEAS. OFF
+[10:00:23] : Cycle start ON
+[10:00:25] : Cycle start OFF
+[10:00:33] : REQUEST MEAS. ON
+[10:00:36] : REQUEST MEAS. OFF
+[10:02:08] : Cycle start ON
+[10:02:11] : Cycle start OFF
+[10:02:18] : REQUEST MEAS. ON
+[10:02:21] : REQUEST MEAS. OFF
+[10:04:04] : Cycle start ON
+[10:04:07] : Cycle start OFF
+[10:04:14] : REQUEST MEAS. ON
+[10:04:17] : REQUEST MEAS. OFF
+[10:05:38] : Cycle start ON
+[10:05:40] : Cycle start OFF
+[10:05:48] : REQUEST MEAS. ON
+[10:05:51] : REQUEST MEAS. OFF
+[10:07:24] : Cycle start ON
+[10:07:26] : Cycle start OFF
+[10:07:34] : REQUEST MEAS. ON
+[10:07:37] : REQUEST MEAS. OFF
+[10:09:08] : Cycle start ON
+[10:09:11] : Cycle start OFF
+[10:09:19] : REQUEST MEAS. ON
+[10:09:21] : REQUEST MEAS. OFF
+[10:10:53] : Cycle start ON
+[10:10:56] : Cycle start OFF
+[10:11:03] : REQUEST MEAS. ON
+[10:11:06] : REQUEST MEAS. OFF
+[10:12:38] : Cycle start ON
+[10:12:41] : Cycle start OFF
+[10:12:48] : REQUEST MEAS. ON
+[10:12:51] : REQUEST MEAS. OFF
+[10:14:23] : Cycle start ON
+[10:14:26] : Cycle start OFF
+[10:14:33] : REQUEST MEAS. ON
+[10:14:36] : REQUEST MEAS. OFF
+[10:16:08] : Cycle start ON
+[10:16:11] : Cycle start OFF
+[10:16:18] : REQUEST MEAS. ON
+[10:16:21] : REQUEST MEAS. OFF
+[10:17:53] : Cycle start ON
+[10:17:55] : Cycle start OFF
+[10:18:03] : REQUEST MEAS. ON
+[10:18:06] : REQUEST MEAS. OFF
+[10:19:37] : Cycle start ON
+[10:19:40] : Cycle start OFF
+[10:19:47] : REQUEST MEAS. ON
+[10:19:50] : REQUEST MEAS. OFF
+[10:21:23] : Cycle start ON
+[10:21:25] : Cycle start OFF
+[10:21:33] : REQUEST MEAS. ON
+[10:21:36] : REQUEST MEAS. OFF
+[10:23:07] : Cycle start ON
+[10:23:10] : Cycle start OFF
+[10:23:17] : REQUEST MEAS. ON
+[10:23:20] : REQUEST MEAS. OFF
+[10:24:52] : Cycle start ON
+[10:24:55] : Cycle start OFF
+[10:25:02] : REQUEST MEAS. ON
+[10:25:05] : REQUEST MEAS. OFF
+[10:26:37] : Cycle start ON
+[10:26:40] : Cycle start OFF
+[10:26:47] : REQUEST MEAS. ON
+[10:26:50] : REQUEST MEAS. OFF
+[10:28:22] : Cycle start ON
+[10:28:25] : Cycle start OFF
+[10:28:32] : REQUEST MEAS. ON
+[10:28:35] : REQUEST MEAS. OFF
+[10:30:06] : Cycle start ON
+[10:30:09] : Cycle start OFF
+[10:30:16] : REQUEST MEAS. ON
+[10:30:19] : REQUEST MEAS. OFF
+[10:31:51] : Cycle start ON
+[10:31:54] : Cycle start OFF
+[10:32:02] : REQUEST MEAS. ON
+[10:32:05] : REQUEST MEAS. OFF
+[10:33:36] : Cycle start ON
+[10:33:39] : Cycle start OFF
+[10:33:46] : REQUEST MEAS. ON
+[10:33:49] : REQUEST MEAS. OFF
+[10:35:22] : Cycle start ON
+[10:35:24] : Cycle start OFF
+[10:35:31] : REQUEST MEAS. ON
+[10:35:34] : REQUEST MEAS. OFF
+[10:37:07] : Cycle start ON
+[10:37:09] : Cycle start OFF
+[10:37:16] : REQUEST MEAS. ON
+[10:37:19] : REQUEST MEAS. OFF
+[10:38:51] : Cycle start ON
+[10:38:54] : Cycle start OFF
+[10:39:01] : REQUEST MEAS. ON
+[10:39:04] : REQUEST MEAS. OFF
+[10:40:35] : Cycle start ON
+[10:40:38] : Cycle start OFF
+[10:40:45] : REQUEST MEAS. ON
+[10:40:48] : REQUEST MEAS. OFF
+[10:42:21] : Cycle start ON
+[10:42:23] : Cycle start OFF
+[10:42:31] : REQUEST MEAS. ON
+[10:42:34] : REQUEST MEAS. OFF
+[10:44:05] : Cycle start ON
+[10:44:07] : Cycle start OFF
+[10:44:15] : REQUEST MEAS. ON
+[10:44:18] : REQUEST MEAS. OFF
+[10:45:50] : Cycle start ON
+[10:45:53] : Cycle start OFF
+[10:46:00] : REQUEST MEAS. ON
+[10:46:03] : REQUEST MEAS. OFF
+[10:47:34] : Cycle start ON
+[10:47:36] : Cycle start OFF
+[10:47:44] : REQUEST MEAS. ON
+[10:47:47] : REQUEST MEAS. OFF
+[11:02:32] : PROGRAM END
+ 
+[11:05:42] : PROGRAM START
+[11:05:43] : GetOrbitFunctionAddresses Failed 
+[11:05:43] : AUTO RUNNING OFF
+[11:05:43] : REQUEST MEAS. OFF
+[11:05:43] : REQUEST ZEROSET OFF
+[11:05:43] : REQUEST ZEROSET OFF
+[11:05:46] : Amp Error Timer
+[11:05:49] : Amp Error Timer
+[11:05:55] : Amp Error Timer
+[11:05:58] : PROGRAM END
+ 
+[11:06:53] : PROGRAM START
+[11:06:56] : AUTO RUNNING OFF
+[11:06:56] : REQUEST MEAS. OFF
+[11:06:56] : REQUEST ZEROSET OFF
+[11:06:56] : REQUEST ZEROSET OFF
+[11:07:12] : PROGRAM END
+ 
+[11:19:31] : PROGRAM START
+[11:19:35] : AUTO RUNNING OFF
+[11:19:35] : REQUEST MEAS. OFF
+[11:19:35] : REQUEST ZEROSET OFF
+[11:19:35] : REQUEST ZEROSET OFF
+[11:19:54] : Cycle start ON
+[11:19:54] : M3421 :	모델변경되었습니다. 영점 조정하세요 OFF
+[11:19:55] : Cycle start OFF
+[11:20:03] : REQUEST ZEROSET ON
+[11:20:06] : REQUEST ZEROSET OFF
+ 
+[12:25:50] : Cycle start ON
+[12:25:53] : Cycle start OFF
+[12:26:00] : REQUEST MEAS. ON
+[12:26:03] : REQUEST MEAS. OFF
+[12:26:24] : Cycle start ON
+[12:26:26] : Cycle start OFF
+[12:26:34] : REQUEST MEAS. ON
+[12:26:37] : REQUEST MEAS. OFF
+[17:48:51] : PROGRAM END
+ 

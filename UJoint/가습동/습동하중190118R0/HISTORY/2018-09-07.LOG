@@ -1,0 +1,84 @@
+[10:14:15] : PROGRAM START
+[10:14:15] : Loading of library 'Orbit_IF.dll' Failed 
+[10:14:17] : TCP FAIL 1
+[10:14:23] : Amp Error Timer
+[10:14:29] : Amp Error Timer
+[10:14:31] : PROGRAM END
+ 
+[10:31:59] : PROGRAM START
+[10:31:59] : Loading of library 'Orbit_IF.dll' Failed 
+[10:32:05] : Plc Error Timer
+[10:32:57] : TCP FAIL 1
+[10:33:07] : Plc Error Timer
+[10:35:00] : PROGRAM END
+ 
+[10:37:00] : PROGRAM START
+[10:37:01] : Loading of library 'Orbit_IF.dll' Failed 
+[10:37:03] : TCP FAIL 1
+[10:37:09] : Amp Error Timer
+[10:37:12] : Amp Error Timer
+[10:37:25] : PROGRAM END
+ 
+[17:58:08] : PROGRAM START
+[17:58:08] : TCP FAIL 1
+[17:58:18] : Plc Error Timer
+[17:58:24] : Plc Error Timer
+[17:58:30] : Plc Error Timer
+[17:58:36] : Plc Error Timer
+[17:58:42] : Plc Error Timer
+[17:58:48] : Plc Error Timer
+[17:58:55] : Plc Error Timer
+[17:58:57] : PROGRAM END
+ 
+[17:59:27] : PROGRAM START
+[17:59:27] : TCP FAIL 1
+[17:59:37] : Plc Error Timer
+[17:59:43] : Plc Error Timer
+[17:59:49] : Plc Error Timer
+[17:59:55] : Plc Error Timer
+[18:00:01] : Plc Error Timer
+[18:00:07] : Plc Error Timer
+[18:00:13] : Plc Error Timer
+[18:00:20] : Plc Error Timer
+[18:00:26] : Plc Error Timer
+[18:00:32] : Plc Error Timer
+[18:00:38] : Plc Error Timer
+[18:00:44] : Plc Error Timer
+[18:00:51] : Plc Error Timer
+[18:00:57] : Plc Error Timer
+[18:01:03] : Plc Error Timer
+[18:01:09] : Plc Error Timer
+[18:01:15] : Plc Error Timer
+[18:01:21] : Plc Error Timer
+[18:01:28] : Plc Error Timer
+[18:01:34] : Plc Error Timer
+[18:01:40] : Plc Error Timer
+[18:01:46] : Plc Error Timer
+[18:01:52] : Plc Error Timer
+[18:01:58] : Plc Error Timer
+[18:02:06] : Plc Error Timer
+[18:02:12] : Plc Error Timer
+[18:02:18] : Plc Error Timer
+[18:02:24] : Plc Error Timer
+[18:02:30] : Plc Error Timer
+[18:02:36] : Plc Error Timer
+[18:02:50] : Plc Error Timer
+[18:02:56] : Plc Error Timer
+[18:03:03] : PROGRAM END
+ 
+[18:03:41] : PROGRAM START
+[18:03:41] : TCP FAIL 1
+[18:03:52] : Plc Error Timer
+[18:03:58] : Plc Error Timer
+[18:04:04] : Plc Error Timer
+[18:04:10] : Plc Error Timer
+[18:04:16] : Plc Error Timer
+[18:04:21] : PROGRAM END
+ 
+[18:05:22] : PROGRAM START
+[18:05:22] : TCP FAIL 1
+[18:05:32] : Plc Error Timer
+[18:05:38] : Plc Error Timer
+[18:05:44] : Plc Error Timer
+[18:05:50] : PROGRAM END
+ 

@@ -1,0 +1,9 @@
+c:\PCPGM\SHAFT181227R1\Product\AD-LHD\data\2018-12-31-13-04.MAN
+MODEL,  AD-LHD
+POINT_NUM,  8
+NAME,  SHAFT_1_CW, SHAFT_1_CCW,   TUBE_1_CW,  TUBE_1_CCW,  SHAFT_2_CW, SHAFT_2_CCW,   TUBE_2_CW,  TUBE_2_CCW,        Time,    Operator,TUBE BARCODE,SHAFT BARCODE
+UPPER,         8.00,         8.00,         8.00,         8.00,         8.00,         8.00,         8.00,         8.00
+LOWER,         0.10,         0.10,         0.10,         0.10,         0.10,         0.10,         0.10,         0.10
+           1,         4.00,         4.50,         4.50,         5.00,         4.00,         4.50,         4.50,         5.00,     13-04-25,     남양공업,                     
+           2,         4.00,         4.50,         4.50,         5.00,         4.00,         4.50,         4.50,         5.00,     13-04-25,     남양공업,                     
+           3,         4.00,         4.50,         4.50,         5.00,         4.00,         4.50,         4.50,         5.00,     13-04-25,     남양공업,                     

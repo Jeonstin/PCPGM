@@ -1,0 +1,9 @@
+Model  DN8-LHD
+Point_Num   8
+    NAME     SHAFT_1_CW    SHAFT_1_CCW      TUBE_1_CW     TUBE_1_CCW     SHAFT_2_CW    SHAFT_2_CCW      TUBE_2_CW     TUBE_2_CCW               Time           Operator    TUBE BARCODE        SHAFT BARCODE          OK/NG
+    UNIT              2              2              2              2              2              2              2              2
+   K.TOL              0              0              0              0              0              0              0              0
+     USL           2.00           2.00           2.00           2.00           2.00           2.00           2.00           2.00
+     LSL           0.10           0.10           0.10           0.10           0.10           0.10           0.10           0.10
+       1           1.84           1.43           0.35           0.82           1.50           1.42           0.44           1.53   2018-12-21 14:58:37            남양공업       CF18112053951                          NG
+       2           1.56           1.31           0.50           0.47           1.45           1.53           0.34           1.42   2018-12-21 14:59:47            남양공업       CF18112053021                          NG

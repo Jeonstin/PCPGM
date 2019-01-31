@@ -1,0 +1,132 @@
+[09:46:10] : PROGRAM START
+[09:46:11] : TCP FAIL 1
+[09:46:21] : Plc Error Timer
+[09:46:27] : Plc Error Timer
+[09:46:33] : Plc Error Timer
+[09:46:39] : Plc Error Timer
+[09:46:45] : Plc Error Timer
+[09:46:51] : Plc Error Timer
+[09:46:57] : Plc Error Timer
+[09:47:04] : Plc Error Timer
+[09:47:10] : Plc Error Timer
+[09:47:16] : Plc Error Timer
+[09:47:22] : Plc Error Timer
+[09:47:28] : Plc Error Timer
+[09:47:34] : Plc Error Timer
+[09:47:40] : Plc Error Timer
+[09:47:46] : Plc Error Timer
+[09:47:52] : Plc Error Timer
+[09:47:58] : Plc Error Timer
+[09:48:05] : Plc Error Timer
+[09:48:11] : Plc Error Timer
+[09:48:17] : Plc Error Timer
+[09:48:23] : Plc Error Timer
+[09:48:29] : Plc Error Timer
+[09:48:35] : Plc Error Timer
+[09:48:41] : Plc Error Timer
+[09:48:47] : Plc Error Timer
+[09:48:53] : Plc Error Timer
+[09:48:59] : Plc Error Timer
+[09:49:06] : Plc Error Timer
+[09:49:12] : Plc Error Timer
+[09:49:18] : Plc Error Timer
+[09:49:24] : Plc Error Timer
+[09:49:30] : Plc Error Timer
+[09:49:36] : Plc Error Timer
+[09:49:42] : Plc Error Timer
+[09:49:48] : Plc Error Timer
+[09:49:54] : Plc Error Timer
+[09:50:00] : Plc Error Timer
+[09:50:07] : Plc Error Timer
+[09:50:13] : Plc Error Timer
+[09:50:19] : Plc Error Timer
+[09:50:25] : Plc Error Timer
+[09:50:31] : Plc Error Timer
+[09:50:37] : Plc Error Timer
+[09:50:43] : Plc Error Timer
+[09:50:49] : Plc Error Timer
+[09:50:55] : Plc Error Timer
+[09:51:01] : Plc Error Timer
+[09:51:08] : Plc Error Timer
+[09:51:14] : Plc Error Timer
+[09:51:20] : Plc Error Timer
+[09:51:22] : PROGRAM END
+ 
+[09:56:53] : PROGRAM START
+[09:56:53] : TCP FAIL 1
+[09:57:03] : Plc Error Timer
+[09:57:09] : Plc Error Timer
+[09:58:02] : MEAS ESC ON
+[09:58:02] : AUTO RUNNING OFF
+[09:58:02] : REQUEST MEAS. OFF
+[09:58:02] : REQUEST ZEROSET OFF
+[09:58:02] : REQUEST ZEROSET OFF
+[09:58:24] : MEAS ESC OFF
+[09:58:24] : RESET ON
+[09:58:24] : M3400 : 비상입니다. OFF
+[09:58:24] : M3401 : MAIN AIR ALARM OFF
+[09:58:24] : M3403 :	셔틀 유닛 전후 알람 OFF
+[09:58:24] : M3404 :	셔틀 리프트 하상 알람 OFF
+[09:58:24] : M3407 :	기종교환 유닛 전후 알람 OFF
+[09:58:24] : M3408 :	NG 리프트 상하 알람 OFF
+[09:58:24] : M3409 :	오토마스터 유닛 전후 알람 OFF
+[09:58:24] : M3410 :	오토마스터 리프트 하상 알람 OFF
+[09:58:24] : MEAS ESC ON
+[09:58:24] : M3401 : MAIN AIR ALARM ON
+[09:58:34] : M3403 :	셔틀 유닛 전후 알람 ON
+[09:58:34] : M3404 :	셔틀 리프트 하상 알람 ON
+[09:58:34] : M3407 :	기종교환 유닛 전후 알람 ON
+[09:58:34] : M3408 :	NG 리프트 상하 알람 ON
+[09:58:34] : M3409 :	오토마스터 유닛 전후 알람 ON
+[09:58:34] : M3410 :	오토마스터 리프트 하상 알람 ON
+[10:08:29] : PROGRAM END
+ 
+[21:08:02] : PROGRAM START
+[21:08:02] : TCP FAIL 1
+[21:08:09] : MEAS ESC ON
+[21:08:09] : AUTO RUNNING OFF
+[21:08:09] : REQUEST MEAS. OFF
+[21:08:09] : REQUEST ZEROSET OFF
+[21:08:09] : REQUEST ZEROSET OFF
+[21:08:37] : MEAS ESC OFF
+[21:08:37] : RESET ON
+[21:08:37] : M3401 : MAIN AIR ALARM OFF
+[21:08:37] : M3404 :	셔틀 리프트 하상 알람 OFF
+[21:08:37] : M3407 :	기종교환 유닛 전후 알람 OFF
+[21:08:37] : M3408 :	NG 리프트 상하 알람 OFF
+[21:08:37] : M3410 :	오토마스터 리프트 하상 알람 OFF
+[21:08:37] : MEAS ESC ON
+[21:08:37] : M3401 : MAIN AIR ALARM ON
+[21:08:47] : M3404 :	셔틀 리프트 하상 알람 ON
+[21:08:47] : M3407 :	기종교환 유닛 전후 알람 ON
+[21:08:47] : M3408 :	NG 리프트 상하 알람 ON
+[21:08:47] : M3410 :	오토마스터 리프트 하상 알람 ON
+[21:09:40] : MEAS ESC OFF
+[21:09:40] : RESET ON
+[21:09:40] : M3401 : MAIN AIR ALARM OFF
+[21:09:40] : M3404 :	셔틀 리프트 하상 알람 OFF
+[21:09:40] : M3407 :	기종교환 유닛 전후 알람 OFF
+[21:09:40] : M3408 :	NG 리프트 상하 알람 OFF
+[21:09:40] : M3410 :	오토마스터 리프트 하상 알람 OFF
+[21:09:50] : MEAS ESC ON
+[21:09:50] : M3404 :	셔틀 리프트 하상 알람 ON
+[21:09:50] : M3407 :	기종교환 유닛 전후 알람 ON
+[21:09:50] : M3408 :	NG 리프트 상하 알람 ON
+[21:09:50] : M3410 :	오토마스터 리프트 하상 알람 ON
+[21:14:54] : m3406 : 센터푸셔 유닛 전후 알람 ON
+[21:15:58] : MEAS ESC OFF
+[21:15:58] : RESET ON
+[21:15:58] : M3404 :	셔틀 리프트 하상 알람 OFF
+[21:15:58] : m3406 : 센터푸셔 유닛 전후 알람 OFF
+[21:15:58] : M3407 :	기종교환 유닛 전후 알람 OFF
+[21:15:58] : M3408 :	NG 리프트 상하 알람 OFF
+[21:15:58] : M3410 :	오토마스터 리프트 하상 알람 OFF
+[21:16:02] : RESET ON
+[21:16:12] : MEAS ESC ON
+[21:16:12] : m3406 : 센터푸셔 유닛 전후 알람 ON
+[21:16:26] : MEAS ESC OFF
+[21:16:26] : RESET ON
+[21:16:26] : m3406 : 센터푸셔 유닛 전후 알람 OFF
+[21:16:36] : MEAS ESC ON
+[21:16:36] : m3406 : 센터푸셔 유닛 전후 알람 ON
+ 

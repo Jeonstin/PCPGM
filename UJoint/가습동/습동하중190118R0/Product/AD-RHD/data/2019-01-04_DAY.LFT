@@ -1,0 +1,7 @@
+Model  AD-RHD
+Point_Num   2
+    NAME   하중_PUSH(L)   하중_PULL(L)               Time           Operator    RIGHT BARCODE         LEFT BARCODE          OK/NG
+    UNIT              2              2
+   K.TOL              0              0
+     USL           7.00           7.00
+     LSL           0.00           0.00

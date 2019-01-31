@@ -1,0 +1,401 @@
+[08:20:53] : Cycle start ON
+[08:20:54] : Cycle start OFF
+[08:21:02] : REQUEST ZEROSET ON
+[08:21:05] : REQUEST ZEROSET OFF
+[08:21:16] : Cycle start ON
+[08:21:17] : Cycle start OFF
+[08:21:25] : REQUEST ZEROSET ON
+[08:21:28] : REQUEST ZEROSET OFF
+ 
+[14:12:07] : AUTO RUNNING ON
+[14:19:32] : AUTO RUNNING OFF
+[14:19:37] : Cycle start ON
+[14:19:40] : Cycle start OFF
+[14:19:48] : REQUEST MEAS. ON
+[14:19:50] : REQUEST MEAS. OFF
+[14:20:12] : AUTO RUNNING ON
+[14:26:38] : Cycle start ON
+[14:26:40] : Cycle start OFF
+[14:26:48] : REQUEST MEAS. ON
+[14:26:51] : REQUEST MEAS. OFF
+[14:28:29] : Cycle start ON
+[14:28:32] : Cycle start OFF
+[14:28:39] : REQUEST MEAS. ON
+[14:28:42] : REQUEST MEAS. OFF
+[14:30:18] : Cycle start ON
+[14:30:21] : Cycle start OFF
+[14:30:28] : REQUEST MEAS. ON
+[14:30:31] : REQUEST MEAS. OFF
+[14:32:07] : Cycle start ON
+[14:32:09] : Cycle start OFF
+[14:32:17] : REQUEST MEAS. ON
+[14:32:20] : REQUEST MEAS. OFF
+[14:33:57] : Cycle start ON
+[14:33:59] : Cycle start OFF
+[14:34:07] : REQUEST MEAS. ON
+[14:34:10] : REQUEST MEAS. OFF
+[14:35:55] : Cycle start ON
+[14:35:57] : Cycle start OFF
+[14:36:05] : REQUEST MEAS. ON
+[14:36:08] : REQUEST MEAS. OFF
+[14:37:53] : Cycle start ON
+[14:37:55] : Cycle start OFF
+[14:38:03] : REQUEST MEAS. ON
+[14:38:06] : REQUEST MEAS. OFF
+[14:39:51] : Cycle start ON
+[14:39:53] : Cycle start OFF
+[14:40:01] : REQUEST MEAS. ON
+[14:40:04] : REQUEST MEAS. OFF
+[14:41:48] : Cycle start ON
+[14:41:51] : Cycle start OFF
+[14:41:58] : REQUEST MEAS. ON
+[14:42:01] : REQUEST MEAS. OFF
+[14:43:47] : Cycle start ON
+[14:43:49] : Cycle start OFF
+[14:43:57] : REQUEST MEAS. ON
+[14:44:00] : REQUEST MEAS. OFF
+[14:45:44] : Cycle start ON
+[14:45:47] : Cycle start OFF
+[14:45:54] : REQUEST MEAS. ON
+[14:45:57] : REQUEST MEAS. OFF
+[14:47:42] : Cycle start ON
+[14:47:44] : Cycle start OFF
+[14:47:52] : REQUEST MEAS. ON
+[14:47:55] : REQUEST MEAS. OFF
+[14:49:40] : Cycle start ON
+[14:49:43] : Cycle start OFF
+[14:49:50] : REQUEST MEAS. ON
+[14:49:53] : REQUEST MEAS. OFF
+[14:51:38] : Cycle start ON
+[14:51:40] : Cycle start OFF
+[14:51:48] : REQUEST MEAS. ON
+[14:51:51] : REQUEST MEAS. OFF
+[14:53:35] : Cycle start ON
+[14:53:37] : Cycle start OFF
+[14:53:45] : REQUEST MEAS. ON
+[14:53:48] : REQUEST MEAS. OFF
+[14:55:34] : Cycle start ON
+[14:55:36] : Cycle start OFF
+[14:55:44] : REQUEST MEAS. ON
+[14:55:47] : REQUEST MEAS. OFF
+[14:57:31] : Cycle start ON
+[14:57:34] : Cycle start OFF
+[14:57:41] : REQUEST MEAS. ON
+[14:57:44] : REQUEST MEAS. OFF
+[14:59:30] : Cycle start ON
+[14:59:32] : Cycle start OFF
+[14:59:40] : REQUEST MEAS. ON
+[14:59:43] : REQUEST MEAS. OFF
+[15:01:27] : Cycle start ON
+[15:01:29] : Cycle start OFF
+[15:01:37] : REQUEST MEAS. ON
+[15:01:40] : REQUEST MEAS. OFF
+[15:03:25] : Cycle start ON
+[15:03:27] : Cycle start OFF
+[15:03:35] : REQUEST MEAS. ON
+[15:03:38] : REQUEST MEAS. OFF
+[15:05:23] : Cycle start ON
+[15:05:25] : Cycle start OFF
+[15:05:33] : REQUEST MEAS. ON
+[15:05:36] : REQUEST MEAS. OFF
+[15:07:21] : Cycle start ON
+[15:07:23] : Cycle start OFF
+[15:07:31] : REQUEST MEAS. ON
+[15:07:34] : REQUEST MEAS. OFF
+[15:09:18] : Cycle start ON
+[15:09:20] : Cycle start OFF
+[15:09:28] : REQUEST MEAS. ON
+[15:09:31] : REQUEST MEAS. OFF
+[15:11:17] : Cycle start ON
+[15:11:19] : Cycle start OFF
+[15:11:27] : REQUEST MEAS. ON
+[15:11:30] : REQUEST MEAS. OFF
+[15:13:14] : Cycle start ON
+[15:13:17] : Cycle start OFF
+[15:13:24] : REQUEST MEAS. ON
+[15:13:27] : REQUEST MEAS. OFF
+[15:15:12] : Cycle start ON
+[15:15:14] : Cycle start OFF
+[15:15:22] : REQUEST MEAS. ON
+[15:15:24] : REQUEST MEAS. OFF
+[15:17:09] : Cycle start ON
+[15:17:12] : Cycle start OFF
+[15:17:19] : REQUEST MEAS. ON
+[15:17:22] : REQUEST MEAS. OFF
+[15:19:08] : Cycle start ON
+[15:19:10] : Cycle start OFF
+[15:19:18] : REQUEST MEAS. ON
+[15:19:21] : REQUEST MEAS. OFF
+[15:21:05] : Cycle start ON
+[15:21:07] : Cycle start OFF
+[15:21:15] : REQUEST MEAS. ON
+[15:21:18] : REQUEST MEAS. OFF
+[15:23:04] : Cycle start ON
+[15:23:06] : Cycle start OFF
+[15:23:14] : REQUEST MEAS. ON
+[15:23:17] : REQUEST MEAS. OFF
+[15:25:01] : Cycle start ON
+[15:25:04] : Cycle start OFF
+[15:25:11] : REQUEST MEAS. ON
+[15:25:14] : REQUEST MEAS. OFF
+[15:26:59] : Cycle start ON
+[15:27:01] : Cycle start OFF
+[15:27:09] : REQUEST MEAS. ON
+[15:27:12] : REQUEST MEAS. OFF
+[15:28:56] : Cycle start ON
+[15:28:59] : Cycle start OFF
+[15:29:06] : REQUEST MEAS. ON
+[15:29:09] : REQUEST MEAS. OFF
+[15:30:55] : Cycle start ON
+[15:30:57] : Cycle start OFF
+[15:31:05] : REQUEST MEAS. ON
+[15:31:08] : REQUEST MEAS. OFF
+[15:32:52] : Cycle start ON
+[15:32:55] : Cycle start OFF
+[15:33:02] : REQUEST MEAS. ON
+[15:33:05] : REQUEST MEAS. OFF
+[15:34:51] : Cycle start ON
+[15:34:53] : Cycle start OFF
+[15:35:01] : REQUEST MEAS. ON
+[15:35:04] : REQUEST MEAS. OFF
+[15:40:12] : Cycle start ON
+[15:40:14] : Cycle start OFF
+[15:40:22] : REQUEST MEAS. ON
+[15:40:25] : REQUEST MEAS. OFF
+[15:42:06] : Cycle start ON
+[15:42:08] : Cycle start OFF
+[15:42:16] : REQUEST MEAS. ON
+[15:42:19] : REQUEST MEAS. OFF
+[15:43:59] : Cycle start ON
+[15:44:01] : Cycle start OFF
+[15:44:09] : REQUEST MEAS. ON
+[15:44:12] : REQUEST MEAS. OFF
+[15:45:52] : Cycle start ON
+[15:45:54] : Cycle start OFF
+[15:46:02] : REQUEST MEAS. ON
+[15:46:05] : REQUEST MEAS. OFF
+[15:47:45] : Cycle start ON
+[15:47:47] : Cycle start OFF
+[15:47:55] : REQUEST MEAS. ON
+[15:47:58] : REQUEST MEAS. OFF
+[15:56:51] : Cycle start ON
+[15:56:53] : Cycle start OFF
+[15:57:01] : REQUEST MEAS. ON
+[15:57:04] : REQUEST MEAS. OFF
+[15:58:44] : Cycle start ON
+[15:58:46] : Cycle start OFF
+[15:58:54] : REQUEST MEAS. ON
+[15:58:57] : REQUEST MEAS. OFF
+[16:00:37] : Cycle start ON
+[16:00:39] : Cycle start OFF
+[16:00:47] : REQUEST MEAS. ON
+[16:00:50] : REQUEST MEAS. OFF
+[16:02:30] : Cycle start ON
+[16:02:32] : Cycle start OFF
+[16:02:40] : REQUEST MEAS. ON
+[16:02:43] : REQUEST MEAS. OFF
+[16:04:23] : Cycle start ON
+[16:04:25] : Cycle start OFF
+[16:04:33] : REQUEST MEAS. ON
+[16:04:36] : REQUEST MEAS. OFF
+[16:09:56] : Cycle start ON
+[16:09:58] : Cycle start OFF
+[16:10:05] : REQUEST MEAS. ON
+[16:10:08] : REQUEST MEAS. OFF
+[16:11:49] : Cycle start ON
+[16:11:51] : Cycle start OFF
+[16:11:59] : REQUEST MEAS. ON
+[16:12:02] : REQUEST MEAS. OFF
+[16:12:53] : AUTO RUNNING OFF
+[16:13:42] : AUTO RUNNING ON
+[16:13:55] : Cycle start ON
+[16:13:57] : Cycle start OFF
+[16:14:05] : REQUEST MEAS. ON
+[16:14:08] : REQUEST MEAS. OFF
+[16:15:35] : Cycle start ON
+[16:15:38] : Cycle start OFF
+[16:15:45] : REQUEST MEAS. ON
+[16:15:48] : REQUEST MEAS. OFF
+[16:17:29] : Cycle start ON
+[16:17:31] : Cycle start OFF
+[16:17:39] : REQUEST MEAS. ON
+[16:17:42] : REQUEST MEAS. OFF
+[16:19:22] : Cycle start ON
+[16:19:24] : Cycle start OFF
+[16:19:32] : REQUEST MEAS. ON
+[16:19:35] : REQUEST MEAS. OFF
+[16:21:15] : Cycle start ON
+[16:21:17] : Cycle start OFF
+[16:21:25] : REQUEST MEAS. ON
+[16:21:28] : REQUEST MEAS. OFF
+[16:25:49] : AUTO RUNNING OFF
+[16:27:30] : AUTO RUNNING ON
+[17:59:35] : AUTO RUNNING OFF
+[18:09:39] : MEAS ESC ON
+[18:09:39] : M3417 :	마스터 이종 알람 ON
+[18:09:39] : M3421 :	모델변경되었습니다. 영점 조정하세요 ON
+[18:11:25] : PROGRAM END
+ 
+[18:40:52] : PROGRAM START
+[18:40:53] : Loading of library 'Orbit_IF.dll' Failed 
+[18:40:57] : Amp Error Timer
+[18:41:30] : PROGRAM END
+ 
+[18:42:11] : PROGRAM START
+[18:42:11] : Loading of library 'Orbit_IF.dll' Failed 
+[18:42:23] : Plc Error Timer
+[18:42:27] : PROGRAM END
+ 
+[18:43:51] : PROGRAM START
+[18:43:51] : Loading of library 'Orbit_IF.dll' Failed 
+[18:43:56] : Amp Error Timer
+[18:43:59] : Amp Error Timer
+[18:44:00] : PROGRAM END
+ 
+[18:54:35] : PROGRAM START
+[18:54:36] : Loading of library 'Orbit_IF.dll' Failed 
+[18:54:40] : Amp Error Timer
+[18:55:09] : Plc Error Timer
+[18:55:10] : Amp Error Timer
+[18:55:13] : Amp Error Timer
+[18:55:16] : Amp Error Timer
+[18:55:49] : PROGRAM END
+ 
+[18:55:58] : PROGRAM START
+[18:55:59] : Loading of library 'Orbit_IF.dll' Failed 
+[18:56:03] : Amp Error Timer
+[18:56:06] : Amp Error Timer
+[18:56:17] : PROGRAM END
+ 
+[18:56:23] : PROGRAM START
+[18:56:23] : Loading of library 'Orbit_IF.dll' Failed 
+[18:56:30] : Amp Error Timer
+[18:56:33] : Plc Error Timer
+[18:56:33] : Amp Error Timer
+[18:56:39] : PROGRAM END
+ 
+[18:58:15] : PROGRAM START
+[18:58:16] : Loading of library 'Orbit_IF.dll' Failed 
+[18:58:20] : Amp Error Timer
+[18:58:25] : PROGRAM END
+ 
+[19:04:15] : PROGRAM START
+[19:04:15] : Loading of library 'Orbit_IF.dll' Failed 
+[19:04:19] : Amp Error Timer
+[19:04:21] : PROGRAM END
+ 
+[19:05:21] : PROGRAM START
+[19:05:21] : Loading of library 'Orbit_IF.dll' Failed 
+[19:05:26] : Amp Error Timer
+[19:05:29] : Amp Error Timer
+[19:05:32] : Amp Error Timer
+[19:05:40] : PROGRAM END
+ 
+[19:07:47] : PROGRAM START
+[19:07:47] : Loading of library 'Orbit_IF.dll' Failed 
+[19:07:54] : Amp Error Timer
+[19:07:57] : Plc Error Timer
+[19:07:57] : Amp Error Timer
+[19:07:58] : PROGRAM END
+ 
+[19:08:23] : PROGRAM START
+[19:08:23] : Loading of library 'Orbit_IF.dll' Failed 
+[19:08:32] : Amp Error Timer
+[19:08:35] : Plc Error Timer
+[19:08:52] : PROGRAM END
+ 
+[19:12:49] : PROGRAM START
+[19:12:50] : Loading of library 'Orbit_IF.dll' Failed 
+[19:12:53] : PROGRAM END
+ 
+[19:19:43] : PROGRAM START
+[19:19:44] : Loading of library 'Orbit_IF.dll' Failed 
+[19:19:56] : Amp Error Timer
+[19:19:59] : Plc Error Timer
+[19:19:59] : Amp Error Timer
+[19:20:05] : Amp Error Timer
+[19:20:14] : Amp Error Timer
+[19:20:26] : Plc Error Timer
+[19:20:29] : Amp Error Timer
+[19:20:34] : Amp Error Timer
+[19:20:37] : Plc Error Timer
+[19:20:47] : PROGRAM END
+ 
+[19:33:59] : PROGRAM START
+[19:34:00] : Loading of library 'Orbit_IF.dll' Failed 
+[19:34:05] : Amp Error Timer
+[19:34:09] : PROGRAM END
+ 
+[19:35:03] : PROGRAM START
+[19:35:03] : Loading of library 'Orbit_IF.dll' Failed 
+[19:35:07] : Amp Error Timer
+[19:35:10] : Amp Error Timer
+[19:35:17] : PROGRAM END
+ 
+[19:47:55] : PROGRAM START
+[19:47:56] : Loading of library 'Orbit_IF.dll' Failed 
+[19:48:02] : Plc Error Timer
+[19:48:14] : PROGRAM END
+ 
+[20:44:07] : PROGRAM START
+[20:44:07] : Loading of library 'Orbit_IF.dll' Failed 
+[20:44:13] : Amp Error Timer
+[20:44:16] : Amp Error Timer
+[20:44:23] : Amp Error Timer
+[20:44:26] : PROGRAM END
+ 
+[20:45:34] : PROGRAM START
+[20:45:35] : Loading of library 'Orbit_IF.dll' Failed 
+[20:45:39] : Amp Error Timer
+[20:45:46] : Amp Error Timer
+[20:45:49] : Plc Error Timer
+[20:45:49] : Amp Error Timer
+[20:45:51] : PROGRAM END
+ 
+[20:46:18] : PROGRAM START
+[20:46:18] : Loading of library 'Orbit_IF.dll' Failed 
+[20:46:22] : Amp Error Timer
+[20:46:32] : Amp Error Timer
+[20:46:35] : Plc Error Timer
+[20:46:35] : Amp Error Timer
+[20:46:39] : PROGRAM END
+ 
+[21:05:40] : PROGRAM START
+[21:05:40] : Loading of library 'Orbit_IF.dll' Failed 
+[21:05:44] : Amp Error Timer
+[21:05:47] : Amp Error Timer
+[21:05:53] : Amp Error Timer
+[21:06:08] : Amp Error Timer
+[21:06:10] : PROGRAM END
+ 
+[21:07:24] : PROGRAM START
+[21:07:25] : Loading of library 'Orbit_IF.dll' Failed 
+[21:07:30] : Amp Error Timer
+[21:07:39] : PROGRAM END
+ 
+[21:10:05] : PROGRAM START
+[21:10:05] : Loading of library 'Orbit_IF.dll' Failed 
+[21:10:11] : Amp Error Timer
+[21:10:14] : Amp Error Timer
+[21:10:51] : Amp Error Timer
+[21:11:00] : Plc Error Timer
+[21:11:10] : PROGRAM END
+ 
+[21:11:40] : PROGRAM START
+[21:11:40] : Loading of library 'Orbit_IF.dll' Failed 
+[21:11:44] : Amp Error Timer
+[21:11:50] : Amp Error Timer
+[21:11:56] : Amp Error Timer
+[21:11:59] : PROGRAM END
+ 
+[21:12:19] : PROGRAM START
+[21:12:19] : Loading of library 'Orbit_IF.dll' Failed 
+[21:12:23] : Amp Error Timer
+[21:12:28] : PROGRAM END
+ 
+[21:13:49] : PROGRAM START
+[21:13:49] : Loading of library 'Orbit_IF.dll' Failed 
+[21:13:56] : Plc Error Timer
+[21:14:34] : Amp Error Timer
+[21:14:42] : PROGRAM END
+ 

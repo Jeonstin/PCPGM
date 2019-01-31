@@ -1,0 +1,8 @@
+Model  DN8-LHD
+Point_Num   2
+    NAME   하중_PUSH(R)   하중_PULL(R)               Time           Operator    TUBE BARCODE        SHAFT BARCODE          OK/NG
+    UNIT              2              2
+   K.TOL              0              0
+     USL           4.40           4.40
+     LSL           0.60           0.60
+       2           1.72           1.62   2018-12-04 20:00:51            남양공업       CF18120270261      CF 18100413223      OK

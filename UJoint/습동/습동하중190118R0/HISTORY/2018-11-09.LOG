@@ -1,0 +1,1212 @@
+[09:46:55] : MEAS ESC ON
+[09:46:55] : AUTO RUNNING ON
+[09:56:53] : MEAS ESC OFF
+[09:56:53] : AUTO RUNNING OFF
+[10:04:29] : MEAS ESC ON
+[10:04:29] : AUTO RUNNING ON
+[10:11:46] : MEAS ESC OFF
+[10:11:46] : AUTO RUNNING OFF
+[10:12:22] : Cycle start ON
+[10:12:22] : REQUEST MEAS. ON
+[10:12:29] : Cycle start OFF
+[10:12:29] : REQUEST MEAS. OFF
+[10:12:30] : 0
+[10:12:30] : 측정요구 ON 2
+[10:12:37] : 측정요구 2OFF
+[10:12:37] : 0
+[10:12:58] : Cycle start ON
+[10:12:58] : 측정요구3 ON
+[10:13:05] : Cycle start OFF
+[10:13:05] : 측정요구3 OFF
+[10:13:05] : 0
+[10:13:05] : 측정요구4 ON
+[10:13:13] : 측정요구4 OFF
+[10:13:13] : 0
+[10:13:39] : PROGRAM END
+ 
+[10:14:47] : PROGRAM START
+[10:14:50] : AUTO RUNNING OFF
+[10:14:50] : REQUEST MEAS. OFF
+[10:14:50] : REQUEST ZEROSET OFF
+[10:14:50] : REQUEST ZEROSET OFF
+[10:14:55] : PROGRAM END
+ 
+[10:15:07] : PROGRAM START
+[10:15:10] : AUTO RUNNING OFF
+[10:15:10] : REQUEST MEAS. OFF
+[10:15:10] : REQUEST ZEROSET OFF
+[10:15:10] : REQUEST ZEROSET OFF
+[10:20:07] : PROGRAM END
+ 
+[10:21:14] : PROGRAM START
+[10:21:17] : AUTO RUNNING OFF
+[10:21:17] : REQUEST MEAS. OFF
+[10:21:17] : REQUEST ZEROSET OFF
+[10:21:17] : REQUEST ZEROSET OFF
+[10:21:23] : PROGRAM END
+ 
+[10:21:35] : PROGRAM START
+[10:21:38] : AUTO RUNNING OFF
+[10:21:38] : REQUEST MEAS. OFF
+[10:21:38] : REQUEST ZEROSET OFF
+[10:21:38] : REQUEST ZEROSET OFF
+[10:32:16] : MEAS ESC ON
+[10:32:16] : AUTO RUNNING ON
+[10:41:29] : MEAS ESC OFF
+[10:41:29] : AUTO RUNNING OFF
+[10:42:13] : MEAS ESC ON
+[10:42:13] : AUTO RUNNING ON
+[10:42:22] : MEAS ESC OFF
+[10:42:22] : AUTO RUNNING OFF
+[10:43:01] : MEAS ESC ON
+[10:43:01] : AUTO RUNNING ON
+[10:43:16] : Cycle start ON
+[10:43:16] : 측정요구3 ON
+[10:43:23] : Cycle start OFF
+[10:43:23] : 측정요구3 OFF
+[10:43:23] : 측정요구4 ON
+[10:43:31] : 측정요구4 OFF
+[10:44:30] : MEAS ESC OFF
+[10:44:30] : AUTO RUNNING OFF
+[10:46:22] : MEAS ESC ON
+[10:46:22] : AUTO RUNNING ON
+[10:50:07] : Cycle start ON
+[10:50:07] : REQUEST MEAS. ON
+[10:50:14] : Cycle start OFF
+[10:50:14] : REQUEST MEAS. OFF
+[10:50:14] : 측정요구 ON 2
+[10:50:21] : 측정요구 2OFF
+[10:54:50] : MEAS ESC OFF
+[10:54:50] : AUTO RUNNING OFF
+[10:58:13] : MEAS ESC ON
+[10:58:13] : AUTO RUNNING ON
+[11:05:38] : Cycle start ON
+[11:05:38] : REQUEST MEAS. ON
+[11:05:45] : Cycle start OFF
+[11:05:45] : REQUEST MEAS. OFF
+[11:05:45] : 측정요구 ON 2
+[11:05:53] : 측정요구 2OFF
+[11:06:27] : Cycle start ON
+[11:06:27] : REQUEST MEAS. ON
+[11:06:34] : Cycle start OFF
+[11:06:34] : REQUEST MEAS. OFF
+[11:06:34] : 측정요구 ON 2
+[11:06:42] : 측정요구 2OFF
+[11:07:27] : MEAS ESC OFF
+[11:07:27] : AUTO RUNNING OFF
+[11:09:39] : MEAS ESC ON
+[11:09:39] : AUTO RUNNING ON
+[11:10:18] : Cycle start ON
+[11:10:18] : REQUEST MEAS. ON
+[11:10:21] : Cycle start OFF
+[11:13:30] : MEAS ESC OFF
+[11:13:30] : AUTO RUNNING OFF
+[11:15:24] : MEAS ESC ON
+[11:15:24] : AUTO RUNNING ON
+[11:19:25] : MEAS ESC OFF
+[11:19:25] : AUTO RUNNING OFF
+[11:19:31] : MEAS ESC ON
+[11:19:31] : AUTO RUNNING ON
+[11:20:25] : MEAS ESC OFF
+[11:20:25] : AUTO RUNNING OFF
+[11:22:29] : MEAS ESC ON
+[11:22:29] : AUTO RUNNING ON
+[11:22:42] : MEAS ESC OFF
+[11:22:42] : AUTO RUNNING OFF
+[11:23:18] : MEAS ESC ON
+[11:23:18] : AUTO RUNNING ON
+[11:23:40] : MEAS ESC OFF
+[11:23:40] : AUTO RUNNING OFF
+[11:24:10] : MEAS ESC ON
+[11:24:10] : AUTO RUNNING ON
+[11:24:10] : Cycle start ON
+[11:24:11] : Cycle start OFF
+[11:24:11] : REQUEST MEAS. OFF
+[11:24:11] : 측정요구 ON 2
+[11:24:19] : 측정요구 2OFF
+[11:24:41] : MEAS ESC OFF
+[11:24:41] : AUTO RUNNING OFF
+[11:25:23] : MEAS ESC ON
+[11:25:23] : AUTO RUNNING ON
+[11:26:25] : Cycle start ON
+[11:26:25] : REQUEST MEAS. ON
+[11:26:32] : Cycle start OFF
+[11:26:32] : REQUEST MEAS. OFF
+[11:26:32] : 측정요구 ON 2
+[11:26:40] : 측정요구 2OFF
+[11:26:50] : MEAS ESC OFF
+[11:26:50] : AUTO RUNNING OFF
+[11:33:59] : MEAS ESC ON
+[11:33:59] : AUTO RUNNING ON
+[11:34:03] : Cycle start ON
+[11:34:03] : 측정요구3 ON
+[11:34:10] : Cycle start OFF
+[11:34:10] : 측정요구3 OFF
+[11:34:10] : 측정요구4 ON
+[11:34:17] : 측정요구4 OFF
+[11:35:14] : Cycle start ON
+[11:35:14] : REQUEST MEAS. ON
+[11:35:21] : Cycle start OFF
+[11:35:21] : REQUEST MEAS. OFF
+[11:35:21] : 측정요구 ON 2
+[11:35:28] : 측정요구 2OFF
+[11:41:18] : MEAS ESC OFF
+[11:41:18] : AUTO RUNNING OFF
+[11:41:20] : MEAS ESC ON
+[11:41:21] : MEAS ESC OFF
+ 
+[12:06:01] : MEAS ESC ON
+[12:06:01] : AUTO RUNNING ON
+[12:06:13] : Cycle start ON
+[12:06:13] : 측정요구3 ON
+[12:06:20] : Cycle start OFF
+[12:06:20] : 측정요구3 OFF
+[12:06:20] : 측정요구4 ON
+[12:06:28] : 측정요구4 OFF
+[12:13:12] : PROGRAM END
+ 
+[12:14:28] : PROGRAM START
+[12:14:31] : MEAS ESC ON
+[12:14:31] : AUTO RUNNING ON
+[12:14:31] : REQUEST MEAS. OFF
+[12:14:31] : REQUEST ZEROSET OFF
+[12:14:31] : REQUEST ZEROSET OFF
+[12:14:34] : PROGRAM END
+ 
+[12:14:42] : PROGRAM START
+[12:14:45] : MEAS ESC ON
+[12:14:45] : AUTO RUNNING ON
+[12:14:45] : REQUEST MEAS. OFF
+[12:14:45] : REQUEST ZEROSET OFF
+[12:14:45] : REQUEST ZEROSET OFF
+[13:20:05] : Cycle start ON
+[13:20:05] : REQUEST MEAS. ON
+[13:20:13] : Cycle start OFF
+[13:20:13] : REQUEST MEAS. OFF
+[13:20:13] : 측정요구 ON 2
+[13:20:20] : 측정요구 2OFF
+[13:21:01] : MEAS ESC OFF
+[13:21:01] : AUTO RUNNING OFF
+[13:21:22] : MEAS ESC ON
+[13:21:22] : AUTO RUNNING ON
+[13:29:24] : Cycle start ON
+[13:29:24] : REQUEST MEAS. ON
+[13:29:32] : Cycle start OFF
+[13:29:32] : REQUEST MEAS. OFF
+[13:29:32] : 측정요구 ON 2
+[13:29:39] : 측정요구 2OFF
+[13:29:52] : Cycle start ON
+[13:29:52] : 측정요구3 ON
+[13:30:00] : Cycle start OFF
+[13:30:00] : 측정요구3 OFF
+[13:30:00] : 측정요구4 ON
+[13:30:07] : 측정요구4 OFF
+[13:30:18] : Cycle start ON
+[13:30:18] : REQUEST MEAS. ON
+[13:30:25] : Cycle start OFF
+[13:30:25] : REQUEST MEAS. OFF
+[13:30:25] : 측정요구 ON 2
+[13:30:33] : 측정요구 2OFF
+[13:33:07] : Cycle start ON
+[13:33:07] : REQUEST MEAS. ON
+[13:33:15] : Cycle start OFF
+[13:33:15] : REQUEST MEAS. OFF
+[13:33:15] : 측정요구 ON 2
+[13:33:22] : 측정요구 2OFF
+[13:44:28] : Cycle start ON
+[13:44:28] : 측정요구3 ON
+[13:44:35] : Cycle start OFF
+[13:44:35] : 측정요구3 OFF
+[13:44:35] : 측정요구4 ON
+[13:44:43] : 측정요구4 OFF
+[14:22:22] : Cycle start ON
+[14:22:22] : REQUEST MEAS. ON
+[14:22:29] : Cycle start OFF
+[14:22:29] : REQUEST MEAS. OFF
+[14:22:29] : 측정요구 ON 2
+[14:22:36] : 측정요구 2OFF
+[14:22:38] : Cycle start ON
+[14:22:38] : 측정요구3 ON
+[14:22:46] : Cycle start OFF
+[14:22:46] : 측정요구3 OFF
+[14:22:46] : 측정요구4 ON
+[14:22:53] : 측정요구4 OFF
+[14:23:25] : Cycle start ON
+[14:23:25] : REQUEST MEAS. ON
+[14:23:26] : Cycle start OFF
+[14:27:54] : MEAS ESC OFF
+[14:27:54] : AUTO RUNNING OFF
+[14:27:56] : MEAS ESC ON
+[14:27:56] : AUTO RUNNING ON
+[14:27:56] : Cycle start ON
+[14:27:57] : Cycle start OFF
+[14:27:57] : REQUEST MEAS. OFF
+[14:27:57] : 측정요구 ON 2
+[14:28:05] : 측정요구 2OFF
+[14:28:13] : Cycle start ON
+[14:28:13] : 측정요구3 ON
+[14:28:20] : Cycle start OFF
+[14:28:20] : 측정요구3 OFF
+[14:28:20] : 측정요구4 ON
+[14:28:28] : 측정요구4 OFF
+[14:31:35] : Cycle start ON
+[14:31:35] : REQUEST MEAS. ON
+[14:31:42] : Cycle start OFF
+[14:31:42] : REQUEST MEAS. OFF
+[14:31:42] : 측정요구 ON 2
+[14:31:49] : 측정요구 2OFF
+[14:33:33] : Cycle start ON
+[14:33:33] : REQUEST MEAS. ON
+[14:33:40] : Cycle start OFF
+[14:33:40] : REQUEST MEAS. OFF
+[14:33:40] : 측정요구 ON 2
+[14:33:48] : 측정요구 2OFF
+[14:33:58] : Cycle start ON
+[14:33:58] : 측정요구3 ON
+[14:34:05] : Cycle start OFF
+[14:34:05] : 측정요구3 OFF
+[14:34:05] : 측정요구4 ON
+[14:34:12] : 측정요구4 OFF
+[14:35:06] : Cycle start ON
+[14:35:06] : REQUEST MEAS. ON
+[14:35:14] : Cycle start OFF
+[14:35:14] : REQUEST MEAS. OFF
+[14:35:14] : 측정요구 ON 2
+[14:35:21] : 측정요구 2OFF
+[14:37:47] : MEAS ESC OFF
+[14:37:47] : AUTO RUNNING OFF
+[14:38:10] : TCP FAIL 1
+[14:38:25] : TCP FAIL 1
+[14:38:40] : MEAS ESC ON
+[14:38:40] : AUTO RUNNING ON
+[14:43:18] : Cycle start ON
+[14:43:18] : REQUEST MEAS. ON
+[14:43:25] : Cycle start OFF
+[14:43:25] : REQUEST MEAS. OFF
+[14:43:25] : 측정요구 ON 2
+[14:43:32] : 측정요구 2OFF
+[14:43:45] : Cycle start ON
+[14:43:45] : 측정요구3 ON
+[14:43:52] : Cycle start OFF
+[14:43:52] : 측정요구3 OFF
+[14:43:52] : 측정요구4 ON
+[14:43:59] : 측정요구4 OFF
+[14:44:32] : Cycle start ON
+[14:44:32] : REQUEST MEAS. ON
+[14:44:40] : Cycle start OFF
+[14:44:40] : REQUEST MEAS. OFF
+[14:44:40] : 측정요구 ON 2
+[14:44:48] : 측정요구 2OFF
+[14:45:22] : MEAS ESC OFF
+[14:45:22] : AUTO RUNNING OFF
+[14:49:48] : MEAS ESC ON
+[14:49:48] : AUTO RUNNING ON
+[14:50:44] : Cycle start ON
+[14:50:44] : REQUEST MEAS. ON
+[14:50:51] : Cycle start OFF
+[14:50:51] : REQUEST MEAS. OFF
+[14:50:51] : 측정요구 ON 2
+[14:50:59] : 측정요구 2OFF
+[14:51:29] : Cycle start ON
+[14:51:29] : REQUEST MEAS. ON
+[14:51:36] : Cycle start OFF
+[14:51:36] : REQUEST MEAS. OFF
+[14:51:36] : 측정요구 ON 2
+[14:51:43] : 측정요구 2OFF
+[14:52:04] : Cycle start ON
+[14:52:04] : 측정요구3 ON
+[14:52:12] : Cycle start OFF
+[14:52:12] : 측정요구3 OFF
+[14:52:12] : 측정요구4 ON
+[14:52:19] : 측정요구4 OFF
+[14:53:29] : Cycle start ON
+[14:53:29] : REQUEST MEAS. ON
+[14:53:36] : Cycle start OFF
+[14:53:36] : REQUEST MEAS. OFF
+[14:53:36] : 측정요구 ON 2
+[14:53:43] : 측정요구 2OFF
+[14:57:25] : Cycle start ON
+[14:57:25] : REQUEST MEAS. ON
+[14:57:32] : Cycle start OFF
+[14:57:32] : REQUEST MEAS. OFF
+[14:57:32] : 측정요구 ON 2
+[14:57:40] : 측정요구 2OFF
+[14:59:27] : MEAS ESC OFF
+[14:59:27] : AUTO RUNNING OFF
+[15:07:04] : MEAS ESC ON
+[15:07:04] : AUTO RUNNING ON
+[15:07:52] : MEAS ESC OFF
+[15:07:52] : AUTO RUNNING OFF
+[15:11:45] : MEAS ESC ON
+[15:11:45] : AUTO RUNNING ON
+[15:11:57] : Cycle start ON
+[15:11:57] : 측정요구3 ON
+[15:12:05] : Cycle start OFF
+[15:12:05] : 측정요구3 OFF
+[15:12:05] : 측정요구4 ON
+[15:12:12] : 측정요구4 OFF
+[15:15:48] : MEAS ESC OFF
+[15:15:48] : AUTO RUNNING OFF
+[15:16:17] : MEAS ESC ON
+[15:16:17] : AUTO RUNNING ON
+[15:16:29] : Cycle start ON
+[15:16:29] : REQUEST MEAS. ON
+[15:16:36] : Cycle start OFF
+[15:16:36] : REQUEST MEAS. OFF
+[15:16:36] : 측정요구 ON 2
+[15:16:44] : 측정요구 2OFF
+[15:16:57] : Cycle start ON
+[15:16:57] : 측정요구3 ON
+[15:17:05] : Cycle start OFF
+[15:17:05] : 측정요구3 OFF
+[15:17:05] : 측정요구4 ON
+[15:17:12] : 측정요구4 OFF
+[15:17:14] : Cycle start ON
+[15:17:14] : REQUEST MEAS. ON
+[15:17:21] : Cycle start OFF
+[15:17:21] : REQUEST MEAS. OFF
+[15:17:21] : 측정요구 ON 2
+[15:17:28] : 측정요구 2OFF
+[15:17:37] : Cycle start ON
+[15:17:37] : 측정요구3 ON
+[15:17:44] : Cycle start OFF
+[15:17:44] : 측정요구3 OFF
+[15:17:44] : 측정요구4 ON
+[15:17:52] : 측정요구4 OFF
+[15:18:40] : Cycle start ON
+[15:18:40] : REQUEST MEAS. ON
+[15:18:47] : Cycle start OFF
+[15:18:47] : REQUEST MEAS. OFF
+[15:18:47] : 측정요구 ON 2
+[15:18:55] : 측정요구 2OFF
+[15:19:05] : Cycle start ON
+[15:19:05] : 측정요구3 ON
+[15:19:12] : Cycle start OFF
+[15:19:12] : 측정요구3 OFF
+[15:19:12] : 측정요구4 ON
+[15:19:19] : 측정요구4 OFF
+[15:19:29] : Cycle start ON
+[15:19:29] : REQUEST MEAS. ON
+[15:19:36] : Cycle start OFF
+[15:19:36] : REQUEST MEAS. OFF
+[15:19:37] : 측정요구 ON 2
+[15:19:44] : 측정요구 2OFF
+[15:19:46] : Cycle start ON
+[15:19:46] : 측정요구3 ON
+[15:19:53] : Cycle start OFF
+[15:19:53] : 측정요구3 OFF
+[15:19:53] : 측정요구4 ON
+[15:20:00] : 측정요구4 OFF
+[15:20:09] : Cycle start ON
+[15:20:09] : REQUEST MEAS. ON
+[15:20:16] : Cycle start OFF
+[15:20:16] : REQUEST MEAS. OFF
+[15:20:16] : 측정요구 ON 2
+[15:20:24] : 측정요구 2OFF
+[15:22:48] : Cycle start ON
+[15:22:48] : REQUEST MEAS. ON
+[15:22:55] : Cycle start OFF
+[15:22:55] : REQUEST MEAS. OFF
+[15:22:55] : 측정요구 ON 2
+[15:23:03] : 측정요구 2OFF
+[15:23:22] : Cycle start ON
+[15:23:22] : 측정요구3 ON
+[15:23:29] : Cycle start OFF
+[15:23:29] : 측정요구3 OFF
+[15:23:29] : 측정요구4 ON
+[15:23:37] : 측정요구4 OFF
+[15:23:48] : Cycle start ON
+[15:23:48] : REQUEST MEAS. ON
+[15:23:55] : Cycle start OFF
+[15:23:55] : REQUEST MEAS. OFF
+[15:23:55] : 측정요구 ON 2
+[15:24:02] : 측정요구 2OFF
+[15:24:11] : Cycle start ON
+[15:24:11] : 측정요구3 ON
+[15:24:19] : Cycle start OFF
+[15:24:19] : 측정요구3 OFF
+[15:24:19] : 측정요구4 ON
+[15:24:26] : 측정요구4 OFF
+[15:25:27] : MEAS ESC OFF
+[15:25:27] : AUTO RUNNING OFF
+[15:34:43] : MEAS ESC ON
+[15:34:43] : AUTO RUNNING ON
+[15:38:36] : MEAS ESC OFF
+[15:38:36] : AUTO RUNNING OFF
+[15:40:01] : MEAS ESC ON
+[15:40:01] : AUTO RUNNING ON
+[15:40:36] : Cycle start ON
+[15:40:36] : REQUEST MEAS. ON
+[15:40:44] : Cycle start OFF
+[15:40:44] : REQUEST MEAS. OFF
+[15:40:44] : 측정요구 ON 2
+[15:40:52] : 측정요구 2OFF
+[15:40:52] : Cycle start ON
+[15:40:52] : 측정요구3 ON
+[15:40:59] : Cycle start OFF
+[15:40:59] : 측정요구3 OFF
+[15:40:59] : 측정요구4 ON
+[15:41:07] : 측정요구4 OFF
+[15:41:31] : Cycle start ON
+[15:41:31] : REQUEST MEAS. ON
+[15:41:38] : Cycle start OFF
+[15:41:38] : REQUEST MEAS. OFF
+[15:41:38] : 측정요구 ON 2
+[15:41:46] : 측정요구 2OFF
+[15:41:46] : Cycle start ON
+[15:41:46] : 측정요구3 ON
+[15:41:54] : Cycle start OFF
+[15:41:54] : 측정요구3 OFF
+[15:41:54] : 측정요구4 ON
+[15:42:01] : 측정요구4 OFF
+[15:42:25] : Cycle start ON
+[15:42:25] : REQUEST MEAS. ON
+[15:42:32] : Cycle start OFF
+[15:42:32] : REQUEST MEAS. OFF
+[15:42:32] : 측정요구 ON 2
+[15:42:40] : 측정요구 2OFF
+[15:42:40] : Cycle start ON
+[15:42:40] : 측정요구3 ON
+[15:42:48] : Cycle start OFF
+[15:42:48] : 측정요구3 OFF
+[15:42:48] : 측정요구4 ON
+[15:42:56] : 측정요구4 OFF
+[15:43:50] : MEAS ESC OFF
+[15:43:50] : AUTO RUNNING OFF
+[15:54:29] : MEAS ESC ON
+[15:54:29] : AUTO RUNNING ON
+[15:54:50] : Cycle start ON
+[15:54:50] : REQUEST MEAS. ON
+[15:54:57] : Cycle start OFF
+[15:54:57] : REQUEST MEAS. OFF
+[15:54:57] : 측정요구 ON 2
+[15:55:04] : 측정요구 2OFF
+[15:55:04] : Cycle start ON
+[15:55:04] : 측정요구3 ON
+[15:55:12] : Cycle start OFF
+[15:55:12] : 측정요구3 OFF
+[15:55:12] : 측정요구4 ON
+[15:55:20] : 측정요구4 OFF
+[15:55:49] : Cycle start ON
+[15:55:49] : REQUEST MEAS. ON
+[15:55:56] : Cycle start OFF
+[15:55:56] : REQUEST MEAS. OFF
+[15:55:56] : 측정요구 ON 2
+[15:56:04] : 측정요구 2OFF
+[15:56:04] : Cycle start ON
+[15:56:04] : 측정요구3 ON
+[15:56:11] : Cycle start OFF
+[15:56:11] : 측정요구3 OFF
+[15:56:11] : 측정요구4 ON
+[15:56:19] : 측정요구4 OFF
+[15:56:48] : Cycle start ON
+[15:56:48] : REQUEST MEAS. ON
+[15:56:55] : Cycle start OFF
+[15:56:55] : REQUEST MEAS. OFF
+[15:56:55] : 측정요구 ON 2
+[15:57:03] : 측정요구 2OFF
+[15:57:03] : Cycle start ON
+[15:57:03] : 측정요구3 ON
+[15:57:11] : Cycle start OFF
+[15:57:11] : 측정요구3 OFF
+[15:57:11] : 측정요구4 ON
+[15:57:19] : 측정요구4 OFF
+[15:57:27] : Cycle start ON
+[15:57:27] : REQUEST MEAS. ON
+[15:57:34] : Cycle start OFF
+[15:57:34] : REQUEST MEAS. OFF
+[15:57:34] : 측정요구 ON 2
+[15:57:42] : 측정요구 2OFF
+[16:03:53] : Cycle start ON
+[16:03:53] : REQUEST MEAS. ON
+[16:04:00] : Cycle start OFF
+[16:04:00] : REQUEST MEAS. OFF
+[16:04:00] : 측정요구 ON 2
+[16:04:08] : 측정요구 2OFF
+[16:04:18] : Cycle start ON
+[16:04:18] : 측정요구3 ON
+[16:04:25] : Cycle start OFF
+[16:04:25] : 측정요구3 OFF
+[16:04:25] : 측정요구4 ON
+[16:04:32] : 측정요구4 OFF
+[16:10:28] : MEAS ESC OFF
+[16:10:28] : AUTO RUNNING OFF
+[16:10:54] : PROGRAM END
+ 
+[16:14:30] : PROGRAM START
+[16:14:33] : AUTO RUNNING OFF
+[16:14:33] : REQUEST MEAS. OFF
+[16:14:33] : REQUEST ZEROSET OFF
+[16:14:33] : REQUEST ZEROSET OFF
+[16:14:36] : PROGRAM END
+ 
+[16:15:10] : PROGRAM START
+[16:15:13] : AUTO RUNNING OFF
+[16:15:13] : REQUEST MEAS. OFF
+[16:15:13] : REQUEST ZEROSET OFF
+[16:15:13] : REQUEST ZEROSET OFF
+[16:15:15] : PROGRAM END
+ 
+[16:15:35] : PROGRAM START
+[16:15:37] : AUTO RUNNING OFF
+[16:15:37] : REQUEST MEAS. OFF
+[16:15:37] : REQUEST ZEROSET OFF
+[16:15:37] : REQUEST ZEROSET OFF
+[16:15:41] : MEAS ESC ON
+[16:15:41] : AUTO RUNNING ON
+[16:16:04] : Cycle start ON
+[16:16:04] : REQUEST MEAS. ON
+[16:16:11] : Cycle start OFF
+[16:16:11] : REQUEST MEAS. OFF
+[16:16:11] : 측정요구 ON 2
+[16:16:18] : 측정요구 2OFF
+[16:16:18] : 61,20181109-161619,CF18100851671,,OK,MAX,1,2,0.00,7.00,4.74,OK,0.00,7.00,4.96,OK,
+[16:16:18] : Cycle start ON
+[16:16:18] : 측정요구3 ON
+[16:16:26] : Cycle start OFF
+[16:16:26] : 측정요구3 OFF
+[16:16:26] : 측정요구4 ON
+[16:16:34] : 측정요구4 OFF
+[16:16:34] : 61,20181109-161635,CF18100852401,,OK,MAX,2,2,0.00,7.00,3.27,OK,0.00,7.00,2.28,OK,
+[16:16:51] : Cycle start ON
+[16:16:51] : REQUEST MEAS. ON
+[16:16:59] : Cycle start OFF
+[16:16:59] : REQUEST MEAS. OFF
+[16:16:59] : 측정요구 ON 2
+[16:17:06] : 측정요구 2OFF
+[16:17:06] : 61,20181109-161707,CF18100851211,,OK,MAX,1,2,0.00,7.00,3.94,OK,0.00,7.00,2.40,OK,
+[16:17:06] : Cycle start ON
+[16:17:06] : 측정요구3 ON
+[16:17:14] : Cycle start OFF
+[16:17:14] : 측정요구3 OFF
+[16:17:14] : 측정요구4 ON
+[16:17:22] : 측정요구4 OFF
+[16:17:22] : 61,20181109-161723,CF18100853151,,OK,MAX,2,2,0.00,7.00,5.86,OK,0.00,7.00,4.18,OK,
+[16:17:45] : Cycle start ON
+[16:17:45] : REQUEST MEAS. ON
+[16:17:52] : Cycle start OFF
+[16:17:52] : REQUEST MEAS. OFF
+[16:17:53] : 측정요구 ON 2
+[16:18:00] : 측정요구 2OFF
+[16:18:00] : 61,20181109-161801,CF18100852571,,OK,MAX,1,2,0.00,7.00,4.34,OK,0.00,7.00,3.20,OK,
+[16:18:00] : Cycle start ON
+[16:18:00] : 측정요구3 ON
+[16:18:08] : Cycle start OFF
+[16:18:08] : 측정요구3 OFF
+[16:18:08] : 측정요구4 ON
+[16:18:16] : 측정요구4 OFF
+[16:18:16] : 61,20181109-161816,CF18100852081,,OK,MAX,2,2,0.00,7.00,4.57,OK,0.00,7.00,3.50,OK,
+[16:18:40] : Cycle start ON
+[16:18:40] : REQUEST MEAS. ON
+[16:18:47] : Cycle start OFF
+[16:18:47] : REQUEST MEAS. OFF
+[16:18:47] : 측정요구 ON 2
+[16:18:55] : 측정요구 2OFF
+[16:18:55] : 61,20181109-161856,CF18100853271,,OK,MAX,1,2,0.00,7.00,3.30,OK,0.00,7.00,2.82,OK,
+[16:18:55] : Cycle start ON
+[16:18:55] : 측정요구3 ON
+[16:19:03] : Cycle start OFF
+[16:19:03] : 측정요구3 OFF
+[16:19:03] : 측정요구4 ON
+[16:19:11] : 측정요구4 OFF
+[16:19:11] : 61,20181109-161912,CF18100852771,,OK,MAX,2,2,0.00,7.00,3.05,OK,0.00,7.00,1.93,OK,
+[16:21:14] : Cycle start ON
+[16:21:14] : REQUEST MEAS. ON
+[16:21:21] : Cycle start OFF
+[16:21:21] : REQUEST MEAS. OFF
+[16:21:22] : 측정요구 ON 2
+[16:21:29] : 측정요구 2OFF
+[16:21:29] : 61,20181109-162129,CF18100852841,,OK,MAX,1,2,0.00,7.00,3.28,OK,0.00,7.00,3.65,OK,
+[16:21:38] : Cycle start ON
+[16:21:38] : 측정요구3 ON
+[16:21:45] : Cycle start OFF
+[16:21:45] : 측정요구3 OFF
+[16:21:46] : 측정요구4 ON
+[16:21:53] : 측정요구4 OFF
+[16:21:53] : 61,20181109-162153,CF18100853451,,OK,MAX,2,2,0.00,7.00,5.44,OK,0.00,7.00,4.09,OK,
+[16:22:49] : Cycle start ON
+[16:22:49] : REQUEST MEAS. ON
+[16:22:57] : Cycle start OFF
+[16:22:57] : REQUEST MEAS. OFF
+[16:22:57] : 측정요구 ON 2
+[16:23:04] : 측정요구 2OFF
+[16:23:04] : 61,20181109-162304,CF18100852981,,OK,MAX,1,2,0.00,7.00,4.28,OK,0.00,7.00,3.56,OK,
+[16:23:43] : Cycle start ON
+[16:23:43] : REQUEST MEAS. ON
+[16:23:50] : Cycle start OFF
+[16:23:50] : REQUEST MEAS. OFF
+[16:23:50] : 측정요구 ON 2
+[16:23:58] : 측정요구 2OFF
+[16:23:58] : 61,20181109-162359,CF18100851051,,OK,MAX,1,2,0.00,7.00,3.74,OK,0.00,7.00,2.43,OK,
+[16:24:54] : Cycle start ON
+[16:24:54] : 측정요구3 ON
+[16:25:01] : Cycle start OFF
+[16:25:01] : 측정요구3 OFF
+[16:25:01] : 측정요구4 ON
+[16:25:09] : 측정요구4 OFF
+[16:25:09] : 61,20181109-162510,CF18100851161,,OK,MAX,2,2,0.00,7.00,4.76,OK,0.00,7.00,3.43,OK,
+[16:25:32] : Cycle start ON
+[16:25:32] : 측정요구3 ON
+[16:25:40] : Cycle start OFF
+[16:25:40] : 측정요구3 OFF
+[16:25:40] : 측정요구4 ON
+[16:25:47] : 측정요구4 OFF
+[16:25:47] : 61,20181109-162548,CF18100852071,,OK,MAX,2,2,0.00,7.00,4.77,OK,0.00,7.00,4.05,OK,
+[16:26:15] : Cycle start ON
+[16:26:15] : 측정요구3 ON
+[16:26:23] : Cycle start OFF
+[16:26:23] : 측정요구3 OFF
+[16:26:23] : 측정요구4 ON
+[16:26:30] : 측정요구4 OFF
+[16:26:30] : 61,20181109-162631,CF18100853331,,OK,MAX,2,2,0.00,7.00,2.96,OK,0.00,7.00,2.05,OK,
+[16:26:34] : MEAS ESC OFF
+[16:26:34] : AUTO RUNNING OFF
+[16:31:13] : Plc Error Timer
+[16:32:19] : MEAS ESC ON
+[16:32:19] : AUTO RUNNING ON
+[16:32:23] : AUTO RUNNING OFF
+[16:40:17] : PROGRAM END
+ 
+[16:41:05] : PROGRAM START
+[16:41:08] : MEAS ESC ON
+[16:41:08] : AUTO RUNNING OFF
+[16:41:08] : REQUEST MEAS. OFF
+[16:41:08] : REQUEST ZEROSET OFF
+[16:41:08] : REQUEST ZEROSET OFF
+[16:41:11] : PROGRAM END
+ 
+[16:41:31] : PROGRAM START
+[16:41:34] : MEAS ESC ON
+[16:41:34] : AUTO RUNNING OFF
+[16:41:34] : REQUEST MEAS. OFF
+[16:41:34] : REQUEST ZEROSET OFF
+[16:41:34] : REQUEST ZEROSET OFF
+[16:41:54] : MEAS ESC OFF
+[16:41:57] : MEAS ESC ON
+[16:41:57] : AUTO RUNNING ON
+[16:42:14] : Cycle start ON
+[16:42:14] : 측정요구3 ON
+[16:42:21] : Cycle start OFF
+[16:42:21] : 측정요구3 OFF
+[16:42:21] : 측정요구4 ON
+[16:42:29] : 측정요구4 OFF
+[16:42:29] : 61,20181109-164230,CF18100851371,,OK,MAX,2,2,0.00,7.00,5.04,OK,0.00,7.00,3.09,OK,
+[16:42:52] : Cycle start ON
+[16:42:52] : 측정요구3 ON
+[16:42:59] : Cycle start OFF
+[16:42:59] : 측정요구3 OFF
+[16:42:59] : 측정요구4 ON
+[16:43:07] : 측정요구4 OFF
+[16:43:07] : 61,20181109-164307,CF18100852301,,OK,MAX,2,2,0.00,7.00,4.03,OK,0.00,7.00,4.36,OK,
+[16:43:25] : MEAS ESC OFF
+[16:43:25] : AUTO RUNNING OFF
+[16:43:32] : MEAS ESC ON
+[16:43:32] : AUTO RUNNING ON
+[17:00:34] : MEAS ESC OFF
+[17:00:34] : AUTO RUNNING OFF
+[17:01:33] : MEAS ESC ON
+[17:01:33] : AUTO RUNNING ON
+[17:04:07] : Cycle start ON
+[17:04:07] : REQUEST MEAS. ON
+[17:04:14] : Cycle start OFF
+[17:04:14] : REQUEST MEAS. OFF
+[17:04:15] : 측정요구 ON 2
+[17:04:22] : 측정요구 2OFF
+[17:04:22] : 61,20181109-170423,CF18100852501,,OK,MAX,1,2,0.00,7.00,4.28,OK,0.00,7.00,4.35,OK,
+[17:04:22] : Cycle start ON
+[17:04:22] : 측정요구3 ON
+[17:04:30] : Cycle start OFF
+[17:04:30] : 측정요구3 OFF
+[17:04:30] : 측정요구4 ON
+[17:04:38] : 측정요구4 OFF
+[17:04:38] : 61,20181109-170439,CF18100853301,,OK,MAX,2,3,0.00,7.00,6.15,OK,0.00,7.00,4.29,OK,
+[17:12:58] : Cycle start ON
+[17:12:58] : REQUEST MEAS. ON
+[17:13:06] : Cycle start OFF
+[17:13:06] : REQUEST MEAS. OFF
+[17:13:06] : 측정요구 ON 2
+[17:13:13] : 측정요구 2OFF
+[17:13:13] : 61,20181109-171314,CF18100852041,,OK,MAX,1,2,0.00,7.00,3.54,OK,0.00,7.00,3.82,OK,
+[17:13:13] : Cycle start ON
+[17:13:13] : 측정요구3 ON
+[17:13:21] : Cycle start OFF
+[17:13:21] : 측정요구3 OFF
+[17:13:21] : 측정요구4 ON
+[17:13:28] : 측정요구4 OFF
+[17:13:28] : 61,20181109-171329,CF18100851971,,OK,MAX,2,2,0.00,7.00,3.10,OK,0.00,7.00,2.66,OK,
+[17:13:54] : Cycle start ON
+[17:13:54] : REQUEST MEAS. ON
+[17:14:01] : Cycle start OFF
+[17:14:01] : REQUEST MEAS. OFF
+[17:14:01] : 측정요구 ON 2
+[17:14:09] : 측정요구 2OFF
+[17:14:09] : 61,20181109-171410,CF18100851341,,OK,MAX,1,2,0.00,7.00,5.69,OK,0.00,7.00,4.78,OK,
+[17:14:09] : Cycle start ON
+[17:14:09] : 측정요구3 ON
+[17:14:17] : Cycle start OFF
+[17:14:17] : 측정요구3 OFF
+[17:14:17] : 측정요구4 ON
+[17:14:25] : 측정요구4 OFF
+[17:14:25] : 61,20181109-171425,CF18100852621,,OK,MAX,2,3,0.00,7.00,6.28,OK,0.00,7.00,5.04,OK,
+[17:27:55] : MEAS ESC OFF
+[17:27:55] : AUTO RUNNING OFF
+[18:27:32] : Cycle start ON
+[18:27:32] : REQUEST MEAS. ON
+[18:27:39] : Cycle start OFF
+[18:27:39] : REQUEST MEAS. OFF
+[18:27:39] : 0
+[18:27:39] : 측정요구 ON 2
+[18:27:46] : 측정요구 2OFF
+[18:27:46] : 0
+[18:29:13] : Cycle start ON
+[18:29:13] : 측정요구3 ON
+[18:29:20] : Cycle start OFF
+[18:29:20] : 측정요구3 OFF
+[18:29:20] : 0
+[18:29:20] : 측정요구4 ON
+[18:29:27] : 측정요구4 OFF
+[18:29:27] : 0
+[18:32:17] : Cycle start ON
+[18:32:17] : REQUEST MEAS. ON
+[18:32:24] : Cycle start OFF
+[18:32:24] : REQUEST MEAS. OFF
+[18:32:24] : 0
+[18:32:24] : 측정요구 ON 2
+[18:32:31] : 측정요구 2OFF
+[18:32:31] : 0
+[18:32:31] : Cycle start ON
+[18:32:31] : 측정요구3 ON
+[18:32:39] : Cycle start OFF
+[18:32:39] : 측정요구3 OFF
+[18:32:39] : 0
+[18:32:39] : 측정요구4 ON
+[18:32:47] : 측정요구4 OFF
+[18:32:47] : 0
+[18:38:09] : Cycle start ON
+[18:38:09] : 측정요구3 ON
+[18:38:16] : Cycle start OFF
+[18:38:16] : 측정요구3 OFF
+[18:38:16] : 0
+[18:38:16] : 측정요구4 ON
+[18:38:23] : 측정요구4 OFF
+[18:38:23] : 0
+[18:40:44] : Cycle start ON
+[18:40:44] : 측정요구3 ON
+[18:40:52] : Cycle start OFF
+[18:40:52] : 측정요구3 OFF
+[18:40:52] : 0
+[18:40:52] : 측정요구4 ON
+[18:40:59] : 측정요구4 OFF
+[18:40:59] : 0
+[18:41:51] : Cycle start ON
+[18:41:51] : 측정요구3 ON
+[18:41:58] : Cycle start OFF
+[18:41:58] : 측정요구3 OFF
+[18:41:58] : 0
+[18:41:58] : 측정요구4 ON
+[18:42:05] : 측정요구4 OFF
+[18:42:05] : 0
+[18:43:21] : Cycle start ON
+[18:43:21] : 측정요구3 ON
+[18:43:28] : Cycle start OFF
+[18:43:28] : 측정요구3 OFF
+[18:43:28] : 0
+[18:43:28] : 측정요구4 ON
+[18:43:35] : 측정요구4 OFF
+[18:43:35] : 0
+[18:44:31] : Cycle start ON
+[18:44:31] : REQUEST MEAS. ON
+[18:44:38] : Cycle start OFF
+[18:44:38] : REQUEST MEAS. OFF
+[18:44:38] : 0
+[18:44:38] : 측정요구 ON 2
+[18:44:46] : 측정요구 2OFF
+[18:44:46] : 0
+[18:46:14] : Cycle start ON
+[18:46:14] : 측정요구3 ON
+[18:46:21] : Cycle start OFF
+[18:46:21] : 측정요구3 OFF
+[18:46:21] : 0
+[18:46:21] : 측정요구4 ON
+[18:46:28] : 측정요구4 OFF
+[18:46:28] : 0
+[18:51:46] : Cycle start ON
+[18:51:46] : REQUEST MEAS. ON
+[18:51:53] : Cycle start OFF
+[18:51:53] : REQUEST MEAS. OFF
+[18:51:53] : 0
+[18:51:53] : 측정요구 ON 2
+[18:52:00] : 측정요구 2OFF
+[18:52:00] : 0
+[18:53:22] : Cycle start ON
+[18:53:22] : REQUEST MEAS. ON
+[18:53:29] : Cycle start OFF
+[18:53:29] : REQUEST MEAS. OFF
+[18:53:29] : 0
+[18:53:29] : 측정요구 ON 2
+[18:53:37] : 측정요구 2OFF
+[18:53:37] : 0
+[19:10:03] : Cycle start ON
+[19:10:03] : REQUEST MEAS. ON
+[19:10:10] : Cycle start OFF
+[19:10:10] : REQUEST MEAS. OFF
+[19:10:10] : 0
+[19:10:10] : 측정요구 ON 2
+[19:10:18] : 측정요구 2OFF
+[19:10:18] : 0
+[19:11:48] : Cycle start ON
+[19:11:48] : REQUEST MEAS. ON
+[19:11:55] : Cycle start OFF
+[19:11:55] : REQUEST MEAS. OFF
+[19:11:55] : 0
+[19:11:55] : 측정요구 ON 2
+[19:12:03] : 측정요구 2OFF
+[19:12:03] : 0
+[19:13:21] : Cycle start ON
+[19:13:21] : REQUEST MEAS. ON
+[19:13:28] : Cycle start OFF
+[19:13:28] : REQUEST MEAS. OFF
+[19:13:28] : 0
+[19:13:28] : 측정요구 ON 2
+[19:13:35] : 측정요구 2OFF
+[19:13:35] : 0
+[19:33:13] : Cycle start ON
+[19:33:13] : REQUEST MEAS. ON
+[19:33:20] : Cycle start OFF
+[19:33:20] : REQUEST MEAS. OFF
+[19:33:20] : 0
+[19:33:20] : 측정요구 ON 2
+[19:33:28] : 측정요구 2OFF
+[19:33:28] : 0
+[20:00:00] : MEAS ESC ON
+[20:00:00] : AUTO RUNNING ON
+[20:04:13] : MEAS ESC OFF
+[20:04:13] : AUTO RUNNING OFF
+[20:05:41] : MEAS ESC ON
+[20:05:41] : AUTO RUNNING ON
+[20:06:18] : Cycle start ON
+[20:06:18] : 측정요구3 ON
+[20:06:25] : Cycle start OFF
+[20:06:25] : 측정요구3 OFF
+[20:06:25] : 측정요구4 ON
+[20:06:33] : 측정요구4 OFF
+[20:06:33] : 61,20181109-200633,CF18100852431,,OK,MAX,2,2,0.00,7.00,5.45,OK,0.00,7.00,3.42,OK,
+[20:06:55] : Cycle start ON
+[20:06:55] : 측정요구3 ON
+[20:07:02] : Cycle start OFF
+[20:07:02] : 측정요구3 OFF
+[20:07:02] : 측정요구4 ON
+[20:07:10] : 측정요구4 OFF
+[20:07:10] : 61,20181109-200710,CF18100851361,,OK,MAX,2,2,0.00,7.00,3.20,OK,0.00,7.00,3.20,OK,
+[20:07:32] : Cycle start ON
+[20:07:32] : 측정요구3 ON
+[20:07:39] : Cycle start OFF
+[20:07:39] : 측정요구3 OFF
+[20:07:39] : 측정요구4 ON
+[20:07:47] : 측정요구4 OFF
+[20:07:47] : 61,20181109-200747,CF18100421851,,OK,MAX,2,3,0.00,7.00,5.24,OK,0.00,7.00,6.17,OK,
+[20:08:08] : MEAS ESC OFF
+[20:08:08] : AUTO RUNNING OFF
+[20:08:52] : MEAS ESC ON
+[20:08:52] : AUTO RUNNING ON
+[20:09:21] : MEAS ESC OFF
+[20:09:21] : AUTO RUNNING OFF
+[20:09:35] : MEAS ESC ON
+[20:09:35] : AUTO RUNNING ON
+[20:09:52] : MEAS ESC OFF
+[20:09:52] : AUTO RUNNING OFF
+[20:09:59] : MEAS ESC ON
+[20:09:59] : AUTO RUNNING ON
+[20:10:20] : MEAS ESC OFF
+[20:10:20] : AUTO RUNNING OFF
+[20:10:25] : MEAS ESC ON
+[20:10:25] : AUTO RUNNING ON
+[20:10:58] : MEAS ESC OFF
+[20:10:58] : AUTO RUNNING OFF
+[20:11:09] : MEAS ESC ON
+[20:11:09] : AUTO RUNNING ON
+[20:12:13] : MEAS ESC OFF
+[20:12:13] : AUTO RUNNING OFF
+[20:12:21] : MEAS ESC ON
+[20:12:21] : AUTO RUNNING ON
+[20:13:01] : Cycle start ON
+[20:13:01] : 측정요구3 ON
+[20:13:08] : Cycle start OFF
+[20:13:08] : 측정요구3 OFF
+[20:13:08] : 측정요구4 ON
+[20:13:15] : 측정요구4 OFF
+[20:13:15] : 61,20181109-201316,CF18100421851,,OK,MAX,2,2,0.00,7.00,3.67,OK,0.00,7.00,2.76,OK,
+[20:13:27] : MEAS ESC OFF
+[20:13:27] : AUTO RUNNING OFF
+[20:14:03] : MEAS ESC ON
+[20:14:03] : AUTO RUNNING ON
+[20:14:39] : MEAS ESC OFF
+[20:14:39] : AUTO RUNNING OFF
+[20:15:14] : MEAS ESC ON
+[20:15:14] : AUTO RUNNING ON
+[20:15:32] : Cycle start ON
+[20:15:32] : 측정요구3 ON
+[20:15:39] : Cycle start OFF
+[20:15:39] : 측정요구3 OFF
+[20:15:39] : 측정요구4 ON
+[20:15:46] : 측정요구4 OFF
+[20:15:46] : 61,20181109-201546,CF18100852561,,OK,MAX,2,2,0.00,7.00,3.83,OK,0.00,7.00,2.72,OK,
+[20:16:08] : Cycle start ON
+[20:16:08] : 측정요구3 ON
+[20:16:15] : Cycle start OFF
+[20:16:15] : 측정요구3 OFF
+[20:16:15] : 측정요구4 ON
+[20:16:23] : 측정요구4 OFF
+[20:16:23] : 61,20181109-201623,CF18100853191,,OK,MAX,2,2,0.00,7.00,3.63,OK,0.00,7.00,3.79,OK,
+[20:16:45] : Cycle start ON
+[20:16:45] : 측정요구3 ON
+[20:16:52] : Cycle start OFF
+[20:16:52] : 측정요구3 OFF
+[20:16:52] : 측정요구4 ON
+[20:17:00] : 측정요구4 OFF
+[20:17:00] : 61,20181109-201700,CF18100851891,,OK,MAX,2,2,0.00,7.00,3.85,OK,0.00,7.00,3.07,OK,
+[20:17:07] : MEAS ESC OFF
+[20:17:07] : AUTO RUNNING OFF
+[20:17:12] : MEAS ESC ON
+[20:17:12] : AUTO RUNNING ON
+[20:17:28] : Cycle start ON
+[20:17:28] : 측정요구3 ON
+[20:17:35] : Cycle start OFF
+[20:17:35] : 측정요구3 OFF
+[20:17:35] : 측정요구4 ON
+[20:17:43] : 측정요구4 OFF
+[20:17:43] : 61,20181109-201743,CF18100852191,,OK,MAX,2,2,0.00,7.00,4.39,OK,0.00,7.00,2.65,OK,
+[20:17:43] : Cycle start ON
+[20:17:43] : REQUEST MEAS. ON
+[20:17:50] : Cycle start OFF
+[20:17:50] : REQUEST MEAS. OFF
+[20:17:50] : 측정요구 ON 2
+[20:17:58] : 측정요구 2OFF
+[20:17:58] : 61,20181109-201758,CF18100852881,,OK,MAX,1,2,0.00,7.00,2.20,OK,0.00,7.00,2.06,OK,
+[20:18:06] : Cycle start ON
+[20:18:06] : 측정요구3 ON
+[20:18:12] : Cycle start OFF
+[20:18:12] : 측정요구3 OFF
+[20:18:12] : 측정요구4 ON
+[20:18:20] : 측정요구4 OFF
+[20:18:20] : 61,20181109-201820,CF18100853341,,OK,MAX,2,2,0.00,7.00,3.10,OK,0.00,7.00,2.32,OK,
+[20:18:21] : Cycle start ON
+[20:18:21] : REQUEST MEAS. ON
+[20:18:28] : Cycle start OFF
+[20:18:28] : REQUEST MEAS. OFF
+[20:18:28] : 측정요구 ON 2
+[20:18:36] : 측정요구 2OFF
+[20:18:36] : 61,20181109-201836,CF18100852661,,OK,MAX,1,2,0.00,7.00,2.90,OK,0.00,7.00,2.43,OK,
+[20:18:42] : Cycle start ON
+[20:18:42] : 측정요구3 ON
+[20:18:49] : Cycle start OFF
+[20:18:49] : 측정요구3 OFF
+[20:18:49] : 측정요구4 ON
+[20:18:57] : 측정요구4 OFF
+[20:18:57] : 61,20181109-201857,CF18100853281,,OK,MAX,2,2,0.00,7.00,3.03,OK,0.00,7.00,1.94,OK,
+[20:19:04] : Cycle start ON
+[20:19:04] : REQUEST MEAS. ON
+[20:19:11] : Cycle start OFF
+[20:19:11] : REQUEST MEAS. OFF
+[20:19:11] : 측정요구 ON 2
+[20:19:19] : 측정요구 2OFF
+[20:19:19] : 61,20181109-201919,CF18100851711,,OK,MAX,1,2,0.00,7.00,4.80,OK,0.00,7.00,3.05,OK,
+[20:19:30] : Cycle start ON
+[20:19:30] : 측정요구3 ON
+[20:19:37] : Cycle start OFF
+[20:19:37] : 측정요구3 OFF
+[20:19:37] : 측정요구4 ON
+[20:19:45] : 측정요구4 OFF
+[20:19:45] : 61,20181109-201945,CF18100853531,,OK,MAX,2,2,0.00,7.00,4.28,OK,0.00,7.00,3.68,OK,
+[20:19:56] : Cycle start ON
+[20:19:56] : REQUEST MEAS. ON
+[20:20:02] : Cycle start OFF
+[20:20:02] : REQUEST MEAS. OFF
+[20:20:03] : 측정요구 ON 2
+[20:20:10] : 측정요구 2OFF
+[20:20:10] : 61,20181109-202010,CF18100852821,,OK,MAX,1,2,0.00,7.00,3.46,OK,0.00,7.00,2.96,OK,
+[20:20:19] : Cycle start ON
+[20:20:19] : 측정요구3 ON
+[20:20:26] : Cycle start OFF
+[20:20:26] : 측정요구3 OFF
+[20:20:26] : 측정요구4 ON
+[20:20:34] : 측정요구4 OFF
+[20:20:34] : 61,20181109-202035,CF18100852751,,OK,MAX,2,2,0.00,7.00,3.46,OK,0.00,7.00,3.28,OK,
+[20:26:10] : Cycle start ON
+[20:26:10] : REQUEST MEAS. ON
+[20:26:17] : Cycle start OFF
+[20:26:17] : REQUEST MEAS. OFF
+[20:26:17] : 측정요구 ON 2
+[20:26:24] : 측정요구 2OFF
+[20:26:24] : 61,20181109-202624,CF18100852701,,OK,MAX,1,2,0.00,7.00,4.55,OK,0.00,7.00,3.39,OK,
+[20:26:36] : Cycle start ON
+[20:26:36] : 측정요구3 ON
+[20:26:43] : Cycle start OFF
+[20:26:43] : 측정요구3 OFF
+[20:26:43] : 측정요구4 ON
+[20:26:51] : 측정요구4 OFF
+[20:26:51] : 61,20181109-202651,CF18100853511,,OK,MAX,2,2,0.00,7.00,4.38,OK,0.00,7.00,3.60,OK,
+[20:27:03] : Cycle start ON
+[20:27:03] : REQUEST MEAS. ON
+[20:27:09] : Cycle start OFF
+[20:27:09] : REQUEST MEAS. OFF
+[20:27:09] : 측정요구 ON 2
+[20:27:17] : 측정요구 2OFF
+[20:27:17] : 61,20181109-202718,CF18100851011,,OK,MAX,1,2,0.00,7.00,4.34,OK,0.00,7.00,4.49,OK,
+[20:27:31] : Cycle start ON
+[20:27:31] : 측정요구3 ON
+[20:27:38] : Cycle start OFF
+[20:27:38] : 측정요구3 OFF
+[20:27:38] : 측정요구4 ON
+[20:27:46] : 측정요구4 OFF
+[20:27:46] : 61,20181109-202746,CF18100853321,,OK,MAX,2,2,0.00,7.00,3.33,OK,0.00,7.00,1.89,OK,
+[20:27:58] : Cycle start ON
+[20:27:58] : REQUEST MEAS. ON
+[20:28:05] : Cycle start OFF
+[20:28:05] : REQUEST MEAS. OFF
+[20:28:05] : 측정요구 ON 2
+[20:28:12] : 측정요구 2OFF
+[20:28:12] : 61,20181109-202813,CF18100851641,,OK,MAX,1,2,0.00,7.00,4.23,OK,0.00,7.00,2.72,OK,
+[20:28:27] : Cycle start ON
+[20:28:27] : 측정요구3 ON
+[20:28:34] : Cycle start OFF
+[20:28:34] : 측정요구3 OFF
+[20:28:34] : 측정요구4 ON
+[20:28:41] : 측정요구4 OFF
+[20:28:41] : 61,20181109-202841,CF18100852721,,OK,MAX,2,2,0.00,7.00,3.96,OK,0.00,7.00,3.57,OK,
+[20:28:53] : Cycle start ON
+[20:28:53] : REQUEST MEAS. ON
+[20:29:00] : Cycle start OFF
+[20:29:00] : REQUEST MEAS. OFF
+[20:29:00] : 측정요구 ON 2
+[20:29:08] : 측정요구 2OFF
+[20:29:08] : 61,20181109-202908,CF18100852871,,OK,MAX,1,2,0.00,7.00,2.43,OK,0.00,7.00,1.30,OK,
+[20:29:21] : Cycle start ON
+[20:29:21] : 측정요구3 ON
+[20:29:28] : Cycle start OFF
+[20:29:28] : 측정요구3 OFF
+[20:29:28] : 측정요구4 ON
+[20:29:36] : 측정요구4 OFF
+[20:29:36] : 61,20181109-202936,CF18100852761,,OK,MAX,2,2,0.00,7.00,3.42,OK,0.00,7.00,2.33,OK,
+[20:29:48] : Cycle start ON
+[20:29:48] : REQUEST MEAS. ON
+[20:29:55] : Cycle start OFF
+[20:29:55] : REQUEST MEAS. OFF
+[20:29:55] : 측정요구 ON 2
+[20:30:02] : 측정요구 2OFF
+[20:30:02] : 61,20181109-203003,CF18100851821,,OK,MAX,1,2,0.00,7.00,3.52,OK,0.00,7.00,3.76,OK,
+[20:30:16] : Cycle start ON
+[20:30:16] : 측정요구3 ON
+[20:30:23] : Cycle start OFF
+[20:30:23] : 측정요구3 OFF
+[20:30:23] : 측정요구4 ON
+[20:30:30] : 측정요구4 OFF
+[20:30:30] : 61,20181109-203031,CF18100852791,,OK,MAX,2,2,0.00,7.00,3.61,OK,0.00,7.00,4.77,OK,
+[20:30:43] : Cycle start ON
+[20:30:43] : REQUEST MEAS. ON
+[20:30:50] : Cycle start OFF
+[20:30:50] : REQUEST MEAS. OFF
+[20:30:50] : 측정요구 ON 2
+[20:30:57] : 측정요구 2OFF
+[20:30:57] : 61,20181109-203057,CF18100852421,,OK,MAX,1,2,0.00,7.00,5.45,OK,0.00,7.00,5.29,OK,
+[20:31:10] : Cycle start ON
+[20:31:10] : 측정요구3 ON
+[20:31:17] : Cycle start OFF
+[20:31:17] : 측정요구3 OFF
+[20:31:17] : 측정요구4 ON
+[20:31:25] : 측정요구4 OFF
+[20:31:25] : 61,20181109-203125,CF18100852011,,OK,MAX,2,2,0.00,7.00,3.74,OK,0.00,7.00,2.77,OK,
+[20:31:37] : Cycle start ON
+[20:31:37] : REQUEST MEAS. ON
+[20:31:43] : Cycle start OFF
+[20:31:43] : REQUEST MEAS. OFF
+[20:31:43] : 측정요구 ON 2
+[20:31:51] : 측정요구 2OFF
+[20:31:51] : 61,20181109-203151,CF18100852471,,OK,MAX,1,2,0.00,7.00,3.11,OK,0.00,7.00,2.09,OK,
+[20:32:05] : Cycle start ON
+[20:32:05] : 측정요구3 ON
+[20:32:12] : Cycle start OFF
+[20:32:12] : 측정요구3 OFF
+[20:32:12] : 측정요구4 ON
+[20:32:19] : 측정요구4 OFF
+[20:32:19] : 61,20181109-203219,CF18100851561,,OK,MAX,2,2,0.00,7.00,3.63,OK,0.00,7.00,2.52,OK,
+[20:32:30] : Cycle start ON
+[20:32:30] : REQUEST MEAS. ON
+[20:32:37] : Cycle start OFF
+[20:32:37] : REQUEST MEAS. OFF
+[20:32:37] : 측정요구 ON 2
+[20:32:45] : 측정요구 2OFF
+[20:32:45] : 61,20181109-203245,CF18100852711,,OK,MAX,1,2,0.00,7.00,4.46,OK,0.00,7.00,3.65,OK,
+[20:32:58] : Cycle start ON
+[20:32:58] : 측정요구3 ON
+[20:33:05] : Cycle start OFF
+[20:33:05] : 측정요구3 OFF
+[20:33:05] : 측정요구4 ON
+[20:33:13] : 측정요구4 OFF
+[20:33:13] : 61,20181109-203313,CF18100852281,,OK,MAX,2,2,0.00,7.00,3.55,OK,0.00,7.00,2.46,OK,
+[20:33:24] : Cycle start ON
+[20:33:24] : REQUEST MEAS. ON
+[20:33:31] : Cycle start OFF
+[20:33:31] : REQUEST MEAS. OFF
+[20:33:31] : 측정요구 ON 2
+[20:33:39] : 측정요구 2OFF
+[20:33:39] : 61,20181109-203339,CF18100852411,,OK,MAX,1,2,0.00,7.00,4.19,OK,0.00,7.00,4.16,OK,
+[20:33:52] : Cycle start ON
+[20:33:52] : 측정요구3 ON
+[20:33:59] : Cycle start OFF
+[20:33:59] : 측정요구3 OFF
+[20:33:59] : 측정요구4 ON
+[20:34:07] : 측정요구4 OFF
+[20:34:07] : 61,20181109-203407,CF18100853001,,OK,MAX,2,2,0.00,7.00,3.21,OK,0.00,7.00,1.78,OK,
+[20:34:18] : Cycle start ON
+[20:34:18] : REQUEST MEAS. ON
+[20:34:25] : Cycle start OFF
+[20:34:25] : REQUEST MEAS. OFF
+[20:34:25] : 측정요구 ON 2
+[20:34:32] : 측정요구 2OFF
+[20:34:32] : 61,20181109-203433,CF18100852341,,OK,MAX,1,2,0.00,7.00,4.65,OK,0.00,7.00,3.74,OK,
+[20:34:46] : Cycle start ON
+[20:34:46] : 측정요구3 ON
+[20:34:53] : Cycle start OFF
+[20:34:53] : 측정요구3 OFF
+[20:34:53] : 측정요구4 ON
+[20:35:00] : 측정요구4 OFF
+[20:35:00] : 61,20181109-203500,CF18100851731,,OK,MAX,2,2,0.00,7.00,3.68,OK,0.00,7.00,2.79,OK,
+[20:35:39] : Cycle start ON
+[20:35:39] : 측정요구3 ON
+[20:35:46] : Cycle start OFF
+[20:35:46] : 측정요구3 OFF
+[20:35:46] : 측정요구4 ON
+[20:35:54] : 측정요구4 OFF
+[20:35:54] : 61,20181109-203554,CF18100853501,,OK,MAX,2,2,0.00,7.00,3.68,OK,0.00,7.00,4.27,OK,
+[20:36:02] : Cycle start ON
+[20:36:02] : REQUEST MEAS. ON
+[20:36:08] : Cycle start OFF
+[20:36:08] : REQUEST MEAS. OFF
+[20:36:08] : 측정요구 ON 2
+[20:36:16] : 측정요구 2OFF
+[20:36:16] : 61,20181109-203616,CF18100853041,,OK,MAX,1,3,0.00,7.00,6.75,OK,0.00,7.00,4.79,OK,
+[20:36:16] : Cycle start ON
+[20:36:16] : 측정요구3 ON
+[20:36:23] : Cycle start OFF
+[20:36:23] : 측정요구3 OFF
+[20:36:23] : 측정요구4 ON
+[20:36:31] : 측정요구4 OFF
+[20:36:31] : 61,20181109-203631,CF18100852261,,OK,MAX,2,2,0.00,7.00,3.21,OK,0.00,7.00,3.44,OK,
+[20:36:38] : Cycle start ON
+[20:36:38] : REQUEST MEAS. ON
+[20:36:45] : Cycle start OFF
+[20:36:45] : REQUEST MEAS. OFF
+[20:36:45] : 측정요구 ON 2
+[20:36:53] : 측정요구 2OFF
+[20:36:53] : 61,20181109-203653,CF18100851301,,OK,MAX,1,2,0.00,7.00,4.02,OK,0.00,7.00,2.50,OK,
+[20:37:02] : Cycle start ON
+[20:37:02] : 측정요구3 ON
+[20:37:09] : Cycle start OFF
+[20:37:09] : 측정요구3 OFF
+[20:37:09] : 측정요구4 ON
+[20:37:17] : 측정요구4 OFF
+[20:37:17] : 61,20181109-203717,CF18100853591,,OK,MAX,2,2,0.00,7.00,4.39,OK,0.00,7.00,3.27,OK,
+[20:38:17] : MEAS ESC OFF
+[20:38:17] : AUTO RUNNING OFF
+ 

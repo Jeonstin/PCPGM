@@ -1,0 +1,565 @@
+[10:05:04] : AUTO RUNNING OFF
+[10:49:20] : Cycle start ON
+[10:49:22] : Cycle start OFF
+[10:49:30] : REQUEST ZEROSET ON
+[10:49:32] : REQUEST ZEROSET OFF
+[10:51:15] : Cycle start ON
+[10:51:17] : Cycle start OFF
+[10:51:24] : REQUEST ZEROSET ON
+[10:51:27] : REQUEST ZEROSET OFF
+[10:51:39] : Cycle start ON
+[10:51:41] : Cycle start OFF
+[10:51:48] : REQUEST ZEROSET ON
+[10:51:51] : REQUEST ZEROSET OFF
+[10:52:05] : Cycle start ON
+[10:52:07] : Cycle start OFF
+[10:52:14] : REQUEST ZEROSET ON
+[10:52:17] : REQUEST ZEROSET OFF
+ 
+[13:25:53] : PROGRAM END
+ 
+[13:48:00] : PROGRAM START
+[13:48:00] : Loading of library 'Orbit_IF.dll' Failed 
+[13:48:04] : Amp Error Timer
+[13:50:11] : Amp Error Timer
+[13:50:13] : PROGRAM END
+ 
+[13:51:04] : PROGRAM START
+[13:51:04] : Loading of library 'Orbit_IF.dll' Failed 
+[13:51:18] : PROGRAM END
+ 
+[13:54:00] : PROGRAM START
+[13:54:00] : Loading of library 'Orbit_IF.dll' Failed 
+[13:54:03] : Amp Error Timer
+[13:54:15] : Amp Error Timer
+[13:54:18] : Plc Error Timer
+[13:56:25] : Plc Error Timer
+[13:56:30] : Amp Error Timer
+[13:56:34] : Amp Error Timer
+[13:56:37] : Plc Error Timer
+[13:56:42] : Amp Error Timer
+[13:56:45] : Plc Error Timer
+[13:58:46] : Amp Error Timer
+[13:58:49] : Plc Error Timer
+[13:58:49] : Amp Error Timer
+[13:58:52] : PROGRAM END
+ 
+[14:06:40] : PROGRAM START
+[14:06:41] : Loading of library 'Orbit_IF.dll' Failed 
+[14:06:46] : Amp Error Timer
+[14:06:49] : Amp Error Timer
+[14:06:52] : Amp Error Timer
+[14:06:55] : Amp Error Timer
+[14:07:01] : PROGRAM END
+ 
+[14:07:43] : PROGRAM START
+[14:07:43] : Loading of library 'Orbit_IF.dll' Failed 
+[14:07:48] : Amp Error Timer
+[14:08:02] : Plc Error Timer
+[14:08:07] : PROGRAM END
+ 
+[14:14:39] : PROGRAM START
+[14:14:39] : Loading of library 'Orbit_IF.dll' Failed 
+[14:14:45] : Plc Error Timer
+[14:14:53] : Amp Error Timer
+[14:14:55] : PROGRAM END
+ 
+[14:17:04] : PROGRAM START
+[14:17:04] : Loading of library 'Orbit_IF.dll' Failed 
+[14:17:08] : Amp Error Timer
+[14:17:11] : Amp Error Timer
+[14:17:14] : Amp Error Timer
+[14:17:17] : PROGRAM END
+ 
+[14:18:33] : PROGRAM START
+[14:18:33] : Loading of library 'Orbit_IF.dll' Failed 
+[14:18:38] : Amp Error Timer
+[14:18:39] : PROGRAM END
+ 
+[14:20:33] : PROGRAM START
+[14:20:34] : Loading of library 'Orbit_IF.dll' Failed 
+[14:20:38] : Amp Error Timer
+[14:20:50] : Amp Error Timer
+[14:20:53] : PROGRAM END
+ 
+[14:21:42] : PROGRAM START
+[14:21:43] : Loading of library 'Orbit_IF.dll' Failed 
+[14:21:47] : Amp Error Timer
+[14:23:02] : Amp Error Timer
+[14:23:04] : PROGRAM END
+ 
+[14:24:11] : PROGRAM START
+[14:24:11] : Loading of library 'Orbit_IF.dll' Failed 
+[14:24:17] : Amp Error Timer
+[14:24:23] : PROGRAM END
+ 
+[14:30:08] : PROGRAM START
+[14:30:08] : Loading of library 'Orbit_IF.dll' Failed 
+[14:30:13] : Amp Error Timer
+[14:30:27] : Plc Error Timer
+[14:30:27] : Amp Error Timer
+[14:30:30] : Amp Error Timer
+[14:30:36] : Amp Error Timer
+[14:30:39] : PROGRAM END
+ 
+[14:30:56] : PROGRAM START
+[14:30:57] : Loading of library 'Orbit_IF.dll' Failed 
+[14:31:04] : Amp Error Timer
+[14:31:22] : Amp Error Timer
+[14:31:25] : Plc Error Timer
+[14:31:26] : PROGRAM END
+ 
+[14:33:52] : PROGRAM START
+[14:33:53] : Loading of library 'Orbit_IF.dll' Failed 
+[14:33:59] : Plc Error Timer
+[14:34:06] : PROGRAM END
+ 
+[14:34:41] : PROGRAM START
+[14:34:41] : Loading of library 'Orbit_IF.dll' Failed 
+[14:34:46] : Amp Error Timer
+[14:34:50] : PROGRAM END
+ 
+[14:47:39] : PROGRAM START
+[14:47:39] : Loading of library 'Orbit_IF.dll' Failed 
+[14:47:45] : PROGRAM END
+ 
+[15:03:53] : PROGRAM START
+[15:03:53] : Loading of library 'Orbit_IF.dll' Failed 
+[15:03:57] : PROGRAM END
+ 
+[15:04:20] : PROGRAM START
+[15:04:20] : Loading of library 'Orbit_IF.dll' Failed 
+[15:04:30] : Amp Error Timer
+[15:04:34] : PROGRAM END
+ 
+[15:05:46] : PROGRAM START
+[15:05:46] : Loading of library 'Orbit_IF.dll' Failed 
+[15:05:53] : Amp Error Timer
+[15:05:56] : Plc Error Timer
+[15:05:56] : Amp Error Timer
+[15:05:57] : PROGRAM END
+ 
+[15:08:10] : PROGRAM START
+[15:08:11] : Loading of library 'Orbit_IF.dll' Failed 
+[15:08:18] : PROGRAM END
+ 
+[15:09:06] : PROGRAM START
+[15:09:06] : Loading of library 'Orbit_IF.dll' Failed 
+[15:09:12] : Amp Error Timer
+[15:09:15] : Plc Error Timer
+[15:09:15] : Amp Error Timer
+[15:09:18] : Amp Error Timer
+[15:09:21] : Amp Error Timer
+[15:09:29] : PROGRAM END
+ 
+[15:10:04] : PROGRAM START
+[15:10:05] : Loading of library 'Orbit_IF.dll' Failed 
+[15:10:12] : Amp Error Timer
+[15:10:15] : Plc Error Timer
+[15:10:15] : Amp Error Timer
+[15:10:18] : Amp Error Timer
+[15:10:32] : PROGRAM END
+ 
+[15:11:03] : PROGRAM START
+[15:11:03] : Loading of library 'Orbit_IF.dll' Failed 
+[15:11:15] : Amp Error Timer
+[15:11:18] : Plc Error Timer
+[15:11:18] : Amp Error Timer
+[15:11:27] : Amp Error Timer
+[15:11:30] : Amp Error Timer
+[15:11:33] : Amp Error Timer
+[15:11:39] : Amp Error Timer
+[15:11:49] : Amp Error Timer
+[15:13:57] : Amp Error Timer
+[15:14:00] : Plc Error Timer
+[15:14:28] : Amp Error Timer
+[15:14:31] : Amp Error Timer
+[15:14:46] : PROGRAM END
+ 
+[15:17:07] : PROGRAM START
+[15:17:07] : Loading of library 'Orbit_IF.dll' Failed 
+[15:17:12] : Amp Error Timer
+[15:17:15] : Amp Error Timer
+[15:17:23] : PROGRAM END
+ 
+[15:18:49] : PROGRAM START
+[15:18:50] : Loading of library 'Orbit_IF.dll' Failed 
+[15:18:55] : Amp Error Timer
+[15:18:58] : Plc Error Timer
+[15:18:58] : Amp Error Timer
+[15:19:01] : Amp Error Timer
+[15:19:04] : Amp Error Timer
+[15:19:08] : Amp Error Timer
+[15:19:14] : Amp Error Timer
+[15:19:17] : Plc Error Timer
+[15:19:17] : Amp Error Timer
+[15:19:38] : Amp Error Timer
+[15:19:42] : Amp Error Timer
+[15:19:45] : Amp Error Timer
+[15:19:48] : Amp Error Timer
+[15:19:51] : Plc Error Timer
+[15:19:51] : Amp Error Timer
+[15:19:54] : Amp Error Timer
+[15:19:57] : Amp Error Timer
+[15:20:00] : Amp Error Timer
+[15:20:03] : Amp Error Timer
+[15:20:46] : Amp Error Timer
+[15:20:50] : Amp Error Timer
+[15:20:53] : Amp Error Timer
+[15:20:56] : Amp Error Timer
+[15:20:59] : Amp Error Timer
+[15:21:05] : Amp Error Timer
+[15:21:17] : Amp Error Timer
+[15:21:20] : Plc Error Timer
+[15:21:26] : Amp Error Timer
+[15:22:26] : PROGRAM END
+ 
+[15:30:09] : PROGRAM START
+[15:30:09] : Loading of library 'Orbit_IF.dll' Failed 
+[15:30:14] : PROGRAM END
+ 
+[15:30:40] : PROGRAM START
+[15:30:40] : Loading of library 'Orbit_IF.dll' Failed 
+[15:30:45] : Amp Error Timer
+[15:30:49] : Amp Error Timer
+[15:30:54] : Amp Error Timer
+[15:30:57] : Plc Error Timer
+[15:30:57] : Amp Error Timer
+[15:31:00] : Amp Error Timer
+[15:31:03] : Amp Error Timer
+[15:31:06] : PROGRAM END
+ 
+[15:32:42] : PROGRAM START
+[15:32:42] : Loading of library 'Orbit_IF.dll' Failed 
+[15:32:48] : Amp Error Timer
+[15:32:51] : Amp Error Timer
+[15:33:05] : PROGRAM END
+ 
+[15:34:38] : PROGRAM START
+[15:34:38] : Loading of library 'Orbit_IF.dll' Failed 
+[15:34:47] : PROGRAM END
+ 
+[15:35:20] : PROGRAM START
+[15:35:20] : Loading of library 'Orbit_IF.dll' Failed 
+[15:35:28] : Amp Error Timer
+[15:35:31] : Plc Error Timer
+[15:35:31] : Amp Error Timer
+[15:35:34] : Amp Error Timer
+[15:35:40] : Amp Error Timer
+[15:35:44] : Amp Error Timer
+[15:36:50] : Amp Error Timer
+[15:36:53] : Plc Error Timer
+[15:36:58] : Amp Error Timer
+[15:37:01] : Plc Error Timer
+[15:37:19] : Plc Error Timer
+[15:37:22] : Amp Error Timer
+[15:37:33] : Plc Error Timer
+[15:37:33] : Amp Error Timer
+[15:37:52] : Plc Error Timer
+[15:38:05] : Plc Error Timer
+[15:38:16] : PROGRAM END
+ 
+[15:39:10] : PROGRAM START
+[15:39:11] : Loading of library 'Orbit_IF.dll' Failed 
+[15:39:24] : Plc Error Timer
+[15:39:36] : PROGRAM END
+ 
+[15:40:32] : PROGRAM START
+[15:40:32] : Loading of library 'Orbit_IF.dll' Failed 
+[15:40:39] : Amp Error Timer
+[15:41:07] : PROGRAM END
+ 
+[16:14:28] : PROGRAM START
+[16:14:31] : MEAS ESC ON
+[16:14:31] : AUTO RUNNING OFF
+[16:14:31] : REQUEST MEAS. OFF
+[16:14:31] : REQUEST ZEROSET OFF
+[16:14:31] : REQUEST ZEROSET OFF
+[16:14:40] : PROGRAM END
+ 
+[16:14:52] : PROGRAM START
+[16:14:56] : MEAS ESC ON
+[16:14:56] : AUTO RUNNING OFF
+[16:14:56] : REQUEST MEAS. OFF
+[16:14:56] : REQUEST ZEROSET OFF
+[16:14:56] : REQUEST ZEROSET OFF
+[16:14:57] : MEAS ESC OFF
+[16:14:57] : RESET ON
+[16:14:57] : M3402 :	연속불량 발생 OFF
+[16:15:09] : PROGRAM END
+ 
+[16:15:40] : PROGRAM START
+[16:15:43] : AUTO RUNNING OFF
+[16:15:43] : REQUEST MEAS. OFF
+[16:15:43] : REQUEST ZEROSET OFF
+[16:15:43] : REQUEST ZEROSET OFF
+[16:15:59] : AUTO RUNNING ON
+[16:19:10] : AUTO RUNNING OFF
+[16:19:18] : AUTO RUNNING ON
+[16:28:15] : Cycle start ON
+[16:28:17] : Cycle start OFF
+[16:28:20] : M3415 :	NG FULL 경고 ON
+[16:28:21] : M3415 :	NG FULL 경고 OFF
+[16:28:25] : REQUEST MEAS. ON
+[16:28:28] : REQUEST MEAS. OFF
+[16:29:28] : Cycle start ON
+[16:29:31] : Cycle start OFF
+[16:29:39] : REQUEST MEAS. ON
+[16:29:42] : REQUEST MEAS. OFF
+[16:31:22] : Cycle start ON
+[16:31:25] : Cycle start OFF
+[16:31:33] : REQUEST MEAS. ON
+[16:31:36] : REQUEST MEAS. OFF
+[16:32:55] : Cycle start ON
+[16:32:57] : Cycle start OFF
+[16:33:05] : REQUEST MEAS. ON
+[16:33:08] : REQUEST MEAS. OFF
+[16:34:47] : Cycle start ON
+[16:34:49] : Cycle start OFF
+[16:34:57] : REQUEST MEAS. ON
+[16:35:00] : REQUEST MEAS. OFF
+[16:36:20] : Cycle start ON
+[16:36:22] : Cycle start OFF
+[16:36:30] : REQUEST MEAS. ON
+[16:36:33] : REQUEST MEAS. OFF
+[16:38:02] : Cycle start ON
+[16:38:05] : Cycle start OFF
+[16:38:13] : REQUEST MEAS. ON
+[16:38:16] : REQUEST MEAS. OFF
+[16:39:44] : Cycle start ON
+[16:39:47] : Cycle start OFF
+[16:39:54] : REQUEST MEAS. ON
+[16:39:57] : REQUEST MEAS. OFF
+[16:41:27] : Cycle start ON
+[16:41:30] : Cycle start OFF
+[16:41:38] : REQUEST MEAS. ON
+[16:41:41] : REQUEST MEAS. OFF
+[16:43:10] : Cycle start ON
+[16:43:12] : Cycle start OFF
+[16:43:20] : REQUEST MEAS. ON
+[16:43:23] : REQUEST MEAS. OFF
+[16:44:52] : Cycle start ON
+[16:44:55] : Cycle start OFF
+[16:45:02] : REQUEST MEAS. ON
+[16:45:05] : REQUEST MEAS. OFF
+[16:46:35] : Cycle start ON
+[16:46:37] : Cycle start OFF
+[16:46:45] : REQUEST MEAS. ON
+[16:46:48] : REQUEST MEAS. OFF
+[16:48:18] : Cycle start ON
+[16:48:21] : Cycle start OFF
+[16:48:28] : REQUEST MEAS. ON
+[16:48:31] : REQUEST MEAS. OFF
+[16:50:10] : Cycle start ON
+[16:50:13] : Cycle start OFF
+[16:50:21] : REQUEST MEAS. ON
+[16:50:24] : REQUEST MEAS. OFF
+[16:50:32] : MEAS ESC ON
+[16:50:32] : AUTO RUNNING OFF
+[16:50:32] : M3402 :	연속불량 발생 ON
+[17:18:49] : MEAS ESC OFF
+[17:18:49] : M3402 :	연속불량 발생 OFF
+[17:19:23] : RESET ON
+[17:19:39] : AUTO RUNNING ON
+[17:20:03] : Cycle start ON
+[17:20:05] : Cycle start OFF
+[17:20:13] : REQUEST MEAS. ON
+[17:20:16] : REQUEST MEAS. OFF
+[17:20:56] : Cycle start ON
+[17:20:58] : Cycle start OFF
+[17:21:06] : REQUEST MEAS. ON
+[17:21:09] : REQUEST MEAS. OFF
+[17:22:20] : Cycle start ON
+[17:22:22] : Cycle start OFF
+[17:22:30] : REQUEST MEAS. ON
+[17:22:33] : REQUEST MEAS. OFF
+[17:24:13] : Cycle start ON
+[17:24:15] : Cycle start OFF
+[17:24:23] : REQUEST MEAS. ON
+[17:24:26] : REQUEST MEAS. OFF
+[17:26:14] : Cycle start ON
+[17:26:16] : Cycle start OFF
+[17:26:24] : REQUEST MEAS. ON
+[17:26:27] : REQUEST MEAS. OFF
+[17:26:36] : MEAS ESC ON
+[17:26:36] : AUTO RUNNING OFF
+[17:26:36] : M3402 :	연속불량 발생 ON
+[17:30:33] : MEAS ESC OFF
+[17:30:33] : RESET ON
+[17:30:33] : M3402 :	연속불량 발생 OFF
+[17:38:03] : Cycle start ON
+[17:38:05] : Cycle start OFF
+[17:38:12] : REQUEST ZEROSET ON
+[17:38:15] : REQUEST ZEROSET OFF
+[17:38:49] : Cycle start ON
+[17:38:51] : Cycle start OFF
+[17:38:58] : REQUEST ZEROSET ON
+[17:39:01] : REQUEST ZEROSET OFF
+[17:39:16] : Cycle start ON
+[17:39:17] : Cycle start OFF
+[17:39:25] : REQUEST ZEROSET ON
+[17:39:28] : REQUEST ZEROSET OFF
+[17:39:39] : Cycle start ON
+[17:39:40] : Cycle start OFF
+[17:39:48] : REQUEST ZEROSET ON
+[17:39:51] : REQUEST ZEROSET OFF
+[17:40:25] : Cycle start ON
+[17:40:27] : Cycle start OFF
+[17:40:34] : REQUEST ZEROSET ON
+[17:40:37] : REQUEST ZEROSET OFF
+[17:40:50] : Cycle start ON
+[17:40:52] : Cycle start OFF
+[17:40:59] : REQUEST ZEROSET ON
+[17:41:01] : REQUEST ZEROSET OFF
+[17:41:14] : Cycle start ON
+[17:41:16] : Cycle start OFF
+[17:41:23] : REQUEST ZEROSET ON
+[17:41:26] : REQUEST ZEROSET OFF
+[17:42:38] : Cycle start ON
+[17:42:39] : Cycle start OFF
+[17:42:47] : REQUEST ZEROSET ON
+[17:42:50] : REQUEST ZEROSET OFF
+[17:43:04] : Cycle start ON
+[17:43:05] : Cycle start OFF
+[17:43:13] : REQUEST ZEROSET ON
+[17:43:16] : REQUEST ZEROSET OFF
+[17:50:03] : Cycle start ON
+[17:50:05] : Cycle start OFF
+[17:50:12] : REQUEST ZEROSET ON
+[17:50:15] : REQUEST ZEROSET OFF
+[17:51:29] : Cycle start ON
+[17:51:31] : Cycle start OFF
+[17:51:38] : REQUEST ZEROSET ON
+[17:51:41] : REQUEST ZEROSET OFF
+[17:51:56] : Cycle start ON
+[17:51:57] : Cycle start OFF
+[17:52:05] : REQUEST ZEROSET ON
+[17:52:08] : REQUEST ZEROSET OFF
+[17:52:19] : Cycle start ON
+[17:52:21] : Cycle start OFF
+[17:52:29] : REQUEST ZEROSET ON
+[17:52:31] : REQUEST ZEROSET OFF
+[17:52:42] : Cycle start ON
+[17:52:44] : Cycle start OFF
+[17:52:52] : REQUEST ZEROSET ON
+[17:52:55] : REQUEST ZEROSET OFF
+[17:55:21] : AUTO RUNNING ON
+[17:55:24] : Cycle start ON
+[17:55:27] : Cycle start OFF
+[17:55:35] : REQUEST MEAS. ON
+[17:55:37] : REQUEST MEAS. OFF
+[18:00:21] : AUTO RUNNING OFF
+[18:00:49] : MEAS ESC ON
+[18:00:49] : M3400 : 비상입니다. ON
+[18:00:52] : MEAS ESC OFF
+[18:00:52] : RESET ON
+[18:00:52] : M3400 : 비상입니다. OFF
+[18:00:52] : RESET ON
+[18:00:58] : AUTO RUNNING ON
+[18:01:10] : AUTO RUNNING OFF
+[18:03:39] : AUTO RUNNING ON
+[18:04:15] : AUTO RUNNING OFF
+[18:04:33] : AUTO RUNNING ON
+[18:42:32] : Cycle start ON
+[18:42:35] : Cycle start OFF
+[18:42:43] : REQUEST MEAS. ON
+[18:42:45] : REQUEST MEAS. OFF
+[18:45:35] : Cycle start ON
+[18:45:38] : Cycle start OFF
+[18:45:45] : REQUEST MEAS. ON
+[18:45:48] : REQUEST MEAS. OFF
+[18:47:21] : Cycle start ON
+[18:47:23] : Cycle start OFF
+[18:47:31] : REQUEST MEAS. ON
+[18:47:34] : REQUEST MEAS. OFF
+[18:49:05] : Cycle start ON
+[18:49:07] : Cycle start OFF
+[18:49:15] : REQUEST MEAS. ON
+[18:49:18] : REQUEST MEAS. OFF
+[18:50:51] : Cycle start ON
+[18:50:53] : Cycle start OFF
+[18:51:01] : REQUEST MEAS. ON
+[18:51:04] : REQUEST MEAS. OFF
+[18:52:35] : Cycle start ON
+[18:52:37] : Cycle start OFF
+[18:52:45] : REQUEST MEAS. ON
+[18:52:48] : REQUEST MEAS. OFF
+[18:54:19] : Cycle start ON
+[18:54:22] : Cycle start OFF
+[18:54:29] : REQUEST MEAS. ON
+[18:54:32] : REQUEST MEAS. OFF
+[18:56:05] : Cycle start ON
+[18:56:07] : Cycle start OFF
+[18:56:15] : REQUEST MEAS. ON
+[18:56:18] : REQUEST MEAS. OFF
+[18:57:50] : Cycle start ON
+[18:57:52] : Cycle start OFF
+[18:58:00] : REQUEST MEAS. ON
+[18:58:03] : REQUEST MEAS. OFF
+[18:59:35] : Cycle start ON
+[18:59:37] : Cycle start OFF
+[18:59:45] : REQUEST MEAS. ON
+[18:59:48] : REQUEST MEAS. OFF
+[19:01:19] : Cycle start ON
+[19:01:22] : Cycle start OFF
+[19:01:29] : REQUEST MEAS. ON
+[19:01:32] : REQUEST MEAS. OFF
+[19:03:04] : Cycle start ON
+[19:03:06] : Cycle start OFF
+[19:03:14] : REQUEST MEAS. ON
+[19:03:17] : REQUEST MEAS. OFF
+[19:04:49] : Cycle start ON
+[19:04:52] : Cycle start OFF
+[19:04:59] : REQUEST MEAS. ON
+[19:05:02] : REQUEST MEAS. OFF
+[19:06:33] : Cycle start ON
+[19:06:36] : Cycle start OFF
+[19:06:44] : REQUEST MEAS. ON
+[19:06:46] : REQUEST MEAS. OFF
+[19:08:18] : Cycle start ON
+[19:08:21] : Cycle start OFF
+[19:08:28] : REQUEST MEAS. ON
+[19:08:31] : REQUEST MEAS. OFF
+[19:10:03] : Cycle start ON
+[19:10:06] : Cycle start OFF
+[19:10:13] : REQUEST MEAS. ON
+[19:10:16] : REQUEST MEAS. OFF
+[19:11:48] : Cycle start ON
+[19:11:51] : Cycle start OFF
+[19:11:58] : REQUEST MEAS. ON
+[19:12:01] : REQUEST MEAS. OFF
+[19:13:32] : Cycle start ON
+[19:13:34] : Cycle start OFF
+[19:13:42] : REQUEST MEAS. ON
+[19:13:45] : REQUEST MEAS. OFF
+[19:15:17] : Cycle start ON
+[19:15:20] : Cycle start OFF
+[19:15:28] : REQUEST MEAS. ON
+[19:15:30] : REQUEST MEAS. OFF
+[19:17:02] : Cycle start ON
+[19:17:05] : Cycle start OFF
+[19:17:12] : REQUEST MEAS. ON
+[19:17:15] : REQUEST MEAS. OFF
+[19:22:27] : Cycle start ON
+[19:22:29] : Cycle start OFF
+[19:22:37] : REQUEST MEAS. ON
+[19:22:40] : REQUEST MEAS. OFF
+[19:22:48] : MEAS ESC ON
+[19:22:48] : AUTO RUNNING OFF
+[19:22:48] : M3402 :	연속불량 발생 ON
+[19:26:53] : MEAS ESC OFF
+[19:26:53] : RESET ON
+[19:26:53] : M3402 :	연속불량 발생 OFF
+[19:32:43] : Cycle start ON
+[19:32:45] : Cycle start OFF
+[19:32:53] : REQUEST MEAS. ON
+[19:32:56] : REQUEST MEAS. OFF
+[19:33:40] : Cycle start ON
+[19:33:41] : Cycle start OFF
+[19:33:49] : REQUEST MEAS. ON
+[19:33:52] : REQUEST MEAS. OFF
+[19:35:02] : Cycle start ON
+[19:35:05] : Cycle start OFF
+[19:35:12] : REQUEST MEAS. ON
+[19:35:15] : REQUEST MEAS. OFF
+ 

@@ -1,0 +1,467 @@
+[10:22:48] : MEAS ESC ON
+[10:22:48] : AUTO RUNNING ON
+[10:23:02] : MEAS ESC OFF
+[10:23:02] : AUTO RUNNING OFF
+[10:28:09] : MEAS ESC ON
+[10:28:09] : AUTO RUNNING ON
+[10:29:37] : Cycle start ON
+[10:29:38] : Cycle start OFF
+[10:29:38] : REQUEST MEAS. ON
+[10:29:43] : REQUEST MEAS. OFF
+[10:29:44] : 측정요구 ON 2
+[10:29:49] : 측정요구 2OFF
+[10:29:52] : TCP FAIL 1
+[10:30:22] : Cycle start ON
+[10:30:22] : Cycle start OFF
+[10:30:22] : REQUEST MEAS. ON
+[10:30:27] : REQUEST MEAS. OFF
+[10:30:29] : 측정요구 ON 2
+[10:30:34] : 측정요구 2OFF
+[10:30:36] : TCP FAIL 1
+[10:31:10] : Cycle start ON
+[10:31:10] : Cycle start OFF
+[10:31:10] : 측정요구3 ON
+[10:31:16] : 측정요구3 OFF
+[10:31:17] : 측정요구4 ON
+[10:31:22] : 측정요구4 OFF
+[10:31:25] : TCP FAIL 1
+[10:32:40] : Cycle start ON
+[10:32:40] : Cycle start OFF
+[10:32:40] : REQUEST MEAS. ON
+[10:32:46] : REQUEST MEAS. OFF
+[10:32:47] : 측정요구 ON 2
+[10:32:52] : 측정요구 2OFF
+[10:32:55] : TCP FAIL 1
+[10:35:59] : Cycle start ON
+[10:35:59] : Cycle start OFF
+[10:35:59] : REQUEST MEAS. ON
+[10:36:04] : REQUEST MEAS. OFF
+[10:36:05] : 측정요구 ON 2
+[10:36:10] : 측정요구 2OFF
+[10:36:13] : TCP FAIL 1
+[10:36:21] : Cycle start ON
+[10:36:21] : Cycle start OFF
+[10:36:21] : 측정요구3 ON
+[10:36:26] : 측정요구3 OFF
+[10:36:28] : 측정요구4 ON
+[10:36:33] : 측정요구4 OFF
+[10:36:36] : TCP FAIL 1
+[10:36:36] : MEAS ESC OFF
+[10:36:36] : AUTO RUNNING OFF
+ 
+[11:50:23] : PROGRAM END
+ 
+[11:52:43] : PROGRAM START
+ 
+[11:52:47] : AUTO RUNNING OFF
+[11:52:47] : REQUEST MEAS. OFF
+[11:52:47] : REQUEST ZEROSET OFF
+[11:52:47] : REQUEST ZEROSET OFF
+[16:14:48] : MEAS ESC ON
+[16:14:48] : AUTO RUNNING ON
+[16:15:34] : MEAS ESC OFF
+[16:15:34] : AUTO RUNNING OFF
+[16:16:02] : MEAS ESC ON
+[16:16:02] : AUTO RUNNING ON
+[16:19:48] : Cycle start ON
+[16:19:48] : Cycle start OFF
+[16:19:48] : REQUEST MEAS. ON
+[16:19:54] : REQUEST MEAS. OFF
+[16:19:56] : 측정요구 ON 2
+[16:20:01] : 측정요구 2OFF
+[16:20:03] : TCP FAIL 1
+[16:20:39] : Cycle start ON
+[16:20:40] : Cycle start OFF
+[16:20:40] : REQUEST MEAS. ON
+[16:20:45] : REQUEST MEAS. OFF
+[16:20:47] : 측정요구 ON 2
+[16:20:52] : 측정요구 2OFF
+[16:20:54] : TCP FAIL 1
+[16:21:23] : Cycle start ON
+[16:21:24] : Cycle start OFF
+[16:21:24] : REQUEST MEAS. ON
+[16:21:29] : REQUEST MEAS. OFF
+[16:21:31] : 측정요구 ON 2
+[16:21:36] : 측정요구 2OFF
+[16:21:39] : TCP FAIL 1
+[16:22:10] : Cycle start ON
+[16:22:10] : Cycle start OFF
+[16:22:10] : REQUEST MEAS. ON
+[16:22:15] : REQUEST MEAS. OFF
+[16:22:16] : 측정요구 ON 2
+[16:22:21] : 측정요구 2OFF
+[16:22:24] : TCP FAIL 1
+[16:22:55] : Cycle start ON
+[16:22:56] : Cycle start OFF
+[16:22:56] : 측정요구3 ON
+[16:23:01] : 측정요구3 OFF
+[16:23:03] : 측정요구4 ON
+[16:23:08] : 측정요구4 OFF
+[16:23:10] : TCP FAIL 1
+[16:23:42] : Cycle start ON
+[16:23:42] : Cycle start OFF
+[16:23:42] : REQUEST MEAS. ON
+[16:23:47] : REQUEST MEAS. OFF
+[16:23:49] : 측정요구 ON 2
+[16:23:54] : 측정요구 2OFF
+[16:23:56] : TCP FAIL 1
+[16:30:44] : Cycle start ON
+[16:30:45] : Cycle start OFF
+[16:30:45] : REQUEST MEAS. ON
+[16:30:50] : REQUEST MEAS. OFF
+[16:30:52] : 측정요구 ON 2
+[16:30:57] : 측정요구 2OFF
+[16:30:59] : TCP FAIL 1
+[16:36:31] : Cycle start ON
+[16:36:31] : Cycle start OFF
+[16:36:31] : REQUEST MEAS. ON
+[16:36:36] : REQUEST MEAS. OFF
+[16:36:38] : 측정요구 ON 2
+[16:36:43] : 측정요구 2OFF
+[16:36:46] : TCP FAIL 1
+[16:36:54] : Cycle start ON
+[16:36:55] : Cycle start OFF
+[16:36:55] : 측정요구3 ON
+[16:37:00] : 측정요구3 OFF
+[16:37:01] : 측정요구4 ON
+[16:37:06] : 측정요구4 OFF
+[16:37:09] : TCP FAIL 1
+[16:37:42] : Cycle start ON
+[16:37:42] : Cycle start OFF
+[16:37:42] : REQUEST MEAS. ON
+[16:37:47] : REQUEST MEAS. OFF
+[16:37:49] : 측정요구 ON 2
+[16:37:54] : 측정요구 2OFF
+[16:37:56] : TCP FAIL 1
+[16:38:24] : Cycle start ON
+[16:38:24] : Cycle start OFF
+[16:38:24] : 측정요구3 ON
+[16:38:30] : 측정요구3 OFF
+[16:38:31] : 측정요구4 ON
+[16:38:36] : 측정요구4 OFF
+[16:38:39] : TCP FAIL 1
+[16:39:14] : Cycle start ON
+[16:39:14] : Cycle start OFF
+[16:39:14] : REQUEST MEAS. ON
+[16:39:19] : REQUEST MEAS. OFF
+[16:39:21] : 측정요구 ON 2
+[16:39:26] : 측정요구 2OFF
+[16:39:28] : TCP FAIL 1
+[16:39:54] : Cycle start ON
+[16:39:54] : Cycle start OFF
+[16:39:54] : REQUEST MEAS. ON
+[16:39:59] : REQUEST MEAS. OFF
+[16:40:01] : 측정요구 ON 2
+[16:40:06] : 측정요구 2OFF
+[16:40:09] : TCP FAIL 1
+[16:40:43] : Cycle start ON
+[16:40:43] : Cycle start OFF
+[16:40:43] : REQUEST MEAS. ON
+[16:40:49] : REQUEST MEAS. OFF
+[16:40:50] : 측정요구 ON 2
+[16:40:55] : 측정요구 2OFF
+[16:40:58] : TCP FAIL 1
+[16:41:26] : Cycle start ON
+[16:41:27] : Cycle start OFF
+[16:41:27] : REQUEST MEAS. ON
+[16:41:32] : REQUEST MEAS. OFF
+[16:41:33] : 측정요구 ON 2
+[16:41:38] : 측정요구 2OFF
+[16:41:41] : TCP FAIL 1
+[16:42:11] : Cycle start ON
+[16:42:11] : Cycle start OFF
+[16:42:11] : REQUEST MEAS. ON
+[16:42:17] : REQUEST MEAS. OFF
+[16:42:18] : 측정요구 ON 2
+[16:42:23] : 측정요구 2OFF
+[16:42:26] : TCP FAIL 1
+[16:42:55] : Cycle start ON
+[16:42:55] : Cycle start OFF
+[16:42:55] : REQUEST MEAS. ON
+[16:43:01] : REQUEST MEAS. OFF
+[16:43:02] : 측정요구 ON 2
+[16:43:07] : 측정요구 2OFF
+[16:43:09] : TCP FAIL 1
+[16:43:41] : Cycle start ON
+[16:43:41] : Cycle start OFF
+[16:43:41] : REQUEST MEAS. ON
+[16:43:46] : REQUEST MEAS. OFF
+[16:43:48] : 측정요구 ON 2
+[16:43:53] : 측정요구 2OFF
+[16:43:56] : TCP FAIL 1
+[16:44:25] : Cycle start ON
+[16:44:25] : Cycle start OFF
+[16:44:25] : REQUEST MEAS. ON
+[16:44:30] : REQUEST MEAS. OFF
+[16:44:32] : 측정요구 ON 2
+[16:44:37] : 측정요구 2OFF
+[16:44:39] : TCP FAIL 1
+[16:45:55] : Cycle start ON
+[16:45:55] : Cycle start OFF
+[16:45:55] : REQUEST MEAS. ON
+[16:46:00] : REQUEST MEAS. OFF
+[16:46:02] : 측정요구 ON 2
+[16:46:07] : 측정요구 2OFF
+[16:46:10] : TCP FAIL 1
+[16:49:04] : Cycle start ON
+[16:49:05] : Cycle start OFF
+[16:49:05] : REQUEST MEAS. ON
+[16:49:10] : REQUEST MEAS. OFF
+[16:49:11] : 측정요구 ON 2
+[16:49:16] : 측정요구 2OFF
+[16:49:19] : TCP FAIL 1
+[16:49:36] : Cycle start ON
+[16:49:36] : Cycle start OFF
+[16:49:36] : 측정요구3 ON
+[16:49:42] : 측정요구3 OFF
+[16:49:43] : 측정요구4 ON
+[16:49:48] : 측정요구4 OFF
+[16:49:50] : TCP FAIL 1
+[16:50:17] : Cycle start ON
+[16:50:18] : Cycle start OFF
+[16:50:18] : REQUEST MEAS. ON
+[16:50:23] : REQUEST MEAS. OFF
+[16:50:25] : 측정요구 ON 2
+[16:50:30] : 측정요구 2OFF
+[16:50:32] : TCP FAIL 1
+[16:50:57] : Cycle start ON
+[16:50:57] : Cycle start OFF
+[16:50:57] : REQUEST MEAS. ON
+[16:51:02] : REQUEST MEAS. OFF
+[16:51:04] : 측정요구 ON 2
+[16:51:09] : 측정요구 2OFF
+[16:51:12] : TCP FAIL 1
+[16:51:43] : Cycle start ON
+[16:51:44] : Cycle start OFF
+[16:51:44] : REQUEST MEAS. ON
+[16:51:49] : REQUEST MEAS. OFF
+[16:51:50] : 측정요구 ON 2
+[16:51:55] : 측정요구 2OFF
+[16:51:58] : TCP FAIL 1
+[16:54:22] : Plc Error Timer
+[16:54:22] : MEAS ESC OFF
+[16:54:22] : AUTO RUNNING OFF
+[16:56:08] : MEAS ESC ON
+[16:56:08] : AUTO RUNNING ON
+[16:56:17] : Cycle start ON
+[16:56:18] : REQUEST MEAS. ON
+[16:56:20] : Cycle start OFF
+[16:56:24] : REQUEST MEAS. OFF
+[16:56:25] : 측정요구 ON 2
+[16:56:30] : 측정요구 2OFF
+[16:56:33] : TCP FAIL 1
+[16:56:33] : 측정요구3 ON
+[16:56:38] : 측정요구3 OFF
+[16:56:39] : 측정요구4 ON
+[16:56:44] : 측정요구4 OFF
+[16:56:47] : TCP FAIL 1
+[16:57:35] : MEAS ESC OFF
+[16:57:35] : AUTO RUNNING OFF
+[17:00:26] : MEAS ESC ON
+[17:00:26] : AUTO RUNNING ON
+[17:02:12] : Plc Error Timer
+[17:02:12] : MEAS ESC OFF
+[17:02:12] : AUTO RUNNING OFF
+[17:10:53] : MEAS ESC ON
+[17:10:53] : AUTO RUNNING ON
+[17:11:03] : Cycle start ON
+[17:11:04] : REQUEST MEAS. ON
+[17:11:06] : Cycle start OFF
+[17:11:09] : REQUEST MEAS. OFF
+[17:11:11] : 측정요구 ON 2
+[17:11:16] : 측정요구 2OFF
+[17:11:18] : TCP FAIL 1
+[17:11:18] : 측정요구3 ON
+[17:11:23] : 측정요구3 OFF
+[17:11:25] : 측정요구4 ON
+[17:11:30] : 측정요구4 OFF
+[17:11:32] : TCP FAIL 1
+[17:11:47] : MEAS ESC OFF
+[17:11:47] : AUTO RUNNING OFF
+[17:12:02] : MEAS ESC ON
+[17:12:02] : AUTO RUNNING ON
+[17:24:35] : Cycle start ON
+[17:24:35] : Cycle start OFF
+[17:24:35] : REQUEST MEAS. ON
+[17:24:40] : REQUEST MEAS. OFF
+[17:24:41] : 측정요구 ON 2
+[17:24:46] : 측정요구 2OFF
+[17:24:49] : TCP FAIL 1
+[17:26:05] : Cycle start ON
+[17:26:05] : Cycle start OFF
+[17:26:05] : REQUEST MEAS. ON
+[17:26:10] : REQUEST MEAS. OFF
+[17:26:11] : 측정요구 ON 2
+[17:26:16] : 측정요구 2OFF
+[17:26:19] : TCP FAIL 1
+[17:26:53] : Cycle start ON
+[17:26:54] : Cycle start OFF
+[17:26:54] : 측정요구3 ON
+[17:26:59] : 측정요구3 OFF
+[17:27:00] : 측정요구4 ON
+[17:27:05] : 측정요구4 OFF
+[17:27:08] : TCP FAIL 1
+[17:27:37] : Cycle start ON
+[17:27:37] : Cycle start OFF
+[17:27:37] : REQUEST MEAS. ON
+[17:27:43] : REQUEST MEAS. OFF
+[17:27:44] : 측정요구 ON 2
+[17:27:49] : 측정요구 2OFF
+[17:27:51] : TCP FAIL 1
+[17:28:20] : MEAS ESC OFF
+[17:28:20] : AUTO RUNNING OFF
+[17:29:04] : MEAS ESC ON
+[17:29:04] : AUTO RUNNING ON
+[17:48:24] : Plc Error Timer
+[17:48:26] : MEAS ESC OFF
+[17:48:26] : AUTO RUNNING OFF
+[18:03:31] : Plc Error Timer
+[18:24:56] : Plc Error Timer
+[18:27:45] : Plc Error Timer
+[19:05:16] : MEAS ESC ON
+[19:05:16] : AUTO RUNNING ON
+[19:05:25] : Cycle start ON
+[19:05:27] : REQUEST MEAS. ON
+[19:05:28] : Cycle start OFF
+[19:05:32] : REQUEST MEAS. OFF
+[19:05:33] : 측정요구 ON 2
+[19:05:38] : 측정요구 2OFF
+[19:05:41] : TCP FAIL 1
+[19:05:41] : 측정요구3 ON
+[19:05:46] : 측정요구3 OFF
+[19:05:47] : 측정요구4 ON
+[19:05:52] : 측정요구4 OFF
+[19:05:55] : TCP FAIL 1
+[19:10:46] : Cycle start ON
+[19:10:46] : Cycle start OFF
+[19:10:46] : REQUEST MEAS. ON
+[19:10:51] : REQUEST MEAS. OFF
+[19:10:53] : 측정요구 ON 2
+[19:10:58] : 측정요구 2OFF
+[19:11:00] : TCP FAIL 1
+[19:11:30] : Cycle start ON
+[19:11:31] : Cycle start OFF
+[19:11:31] : REQUEST MEAS. ON
+[19:11:36] : REQUEST MEAS. OFF
+[19:11:38] : 측정요구 ON 2
+[19:11:43] : 측정요구 2OFF
+[19:11:46] : TCP FAIL 1
+[19:12:17] : Cycle start ON
+[19:12:17] : Cycle start OFF
+[19:12:17] : REQUEST MEAS. ON
+[19:12:22] : REQUEST MEAS. OFF
+[19:12:23] : 측정요구 ON 2
+[19:12:28] : 측정요구 2OFF
+[19:12:31] : TCP FAIL 1
+[19:13:00] : Cycle start ON
+[19:13:01] : Cycle start OFF
+[19:13:01] : REQUEST MEAS. ON
+[19:13:06] : REQUEST MEAS. OFF
+[19:13:08] : 측정요구 ON 2
+[19:13:13] : 측정요구 2OFF
+[19:13:15] : TCP FAIL 1
+[19:13:46] : Cycle start ON
+[19:13:47] : Cycle start OFF
+[19:13:47] : REQUEST MEAS. ON
+[19:13:52] : REQUEST MEAS. OFF
+[19:13:54] : 측정요구 ON 2
+[19:13:59] : 측정요구 2OFF
+[19:14:01] : TCP FAIL 1
+[19:14:31] : Cycle start ON
+[19:14:31] : Cycle start OFF
+[19:14:31] : REQUEST MEAS. ON
+[19:14:36] : REQUEST MEAS. OFF
+[19:14:38] : 측정요구 ON 2
+[19:14:43] : 측정요구 2OFF
+[19:14:46] : TCP FAIL 1
+[19:15:17] : Cycle start ON
+[19:15:18] : Cycle start OFF
+[19:15:18] : REQUEST MEAS. ON
+[19:15:23] : REQUEST MEAS. OFF
+[19:15:24] : 측정요구 ON 2
+[19:15:29] : 측정요구 2OFF
+[19:15:32] : TCP FAIL 1
+[19:16:02] : Cycle start ON
+[19:16:02] : Cycle start OFF
+[19:16:02] : REQUEST MEAS. ON
+[19:16:07] : REQUEST MEAS. OFF
+[19:16:09] : 측정요구 ON 2
+[19:16:14] : 측정요구 2OFF
+[19:16:16] : TCP FAIL 1
+[19:17:30] : Cycle start ON
+[19:17:30] : Cycle start OFF
+[19:17:30] : REQUEST MEAS. ON
+[19:17:35] : REQUEST MEAS. OFF
+[19:17:37] : 측정요구 ON 2
+[19:17:42] : 측정요구 2OFF
+[19:17:45] : TCP FAIL 1
+[19:18:18] : Cycle start ON
+[19:18:18] : Cycle start OFF
+[19:18:18] : REQUEST MEAS. ON
+[19:18:23] : REQUEST MEAS. OFF
+[19:18:25] : 측정요구 ON 2
+[19:18:30] : 측정요구 2OFF
+[19:18:32] : TCP FAIL 1
+[19:19:02] : Cycle start ON
+[19:19:02] : Cycle start OFF
+[19:19:02] : REQUEST MEAS. ON
+[19:19:07] : REQUEST MEAS. OFF
+[19:19:09] : 측정요구 ON 2
+[19:19:14] : 측정요구 2OFF
+[19:19:14] : 21,20181116-191914,CF18100852611,,OK,MAX,1,3,0.00,7.00,1.64,OK,0.00,7.00,3.76,OK,
+[19:19:48] : Cycle start ON
+[19:19:48] : Cycle start OFF
+[19:19:48] : REQUEST MEAS. ON
+[19:19:53] : REQUEST MEAS. OFF
+[19:19:55] : 측정요구 ON 2
+[19:20:00] : 측정요구 2OFF
+[19:20:00] : 21,20181116-192000,CF18100852121,,OK,MAX,1,3,0.00,7.00,1.95,OK,0.00,7.00,4.02,OK,
+[19:20:31] : Cycle start ON
+[19:20:32] : Cycle start OFF
+[19:20:32] : REQUEST MEAS. ON
+[19:20:37] : REQUEST MEAS. OFF
+[19:20:39] : 측정요구 ON 2
+[19:20:44] : 측정요구 2OFF
+[19:20:44] : 21,20181116-192044,CF18100852031,,OK,MAX,1,3,0.00,7.00,2.45,OK,0.00,7.00,5.56,OK,
+[19:21:18] : Cycle start ON
+[19:21:18] : Cycle start OFF
+[19:21:18] : REQUEST MEAS. ON
+[19:21:23] : REQUEST MEAS. OFF
+[19:21:24] : 측정요구 ON 2
+[19:21:29] : 측정요구 2OFF
+[19:21:29] : 21,20181116-192130,CF18100853541,,OK,MAX,1,3,0.00,7.00,3.86,OK,0.00,7.00,4.09,OK,
+[19:22:02] : Cycle start ON
+[19:22:02] : Cycle start OFF
+[19:22:02] : REQUEST MEAS. ON
+[19:22:07] : REQUEST MEAS. OFF
+[19:22:09] : 측정요구 ON 2
+[19:22:14] : 측정요구 2OFF
+[19:22:14] : 21,20181116-192215,CF18100853071,,OK,MAX,1,2,0.00,7.00,1.47,OK,0.00,7.00,2.47,OK,
+[19:26:52] : Cycle start ON
+[19:26:52] : Cycle start OFF
+[19:26:52] : REQUEST MEAS. ON
+[19:26:57] : REQUEST MEAS. OFF
+[19:26:59] : 측정요구 ON 2
+[19:27:04] : 측정요구 2OFF
+[19:27:04] : 21,20181116-192704,CF18100851721,,OK,MAX,1,3,0.00,7.00,2.41,OK,0.00,7.00,4.84,OK,
+[19:27:44] : Cycle start ON
+[19:27:44] : Cycle start OFF
+[19:27:44] : 측정요구3 ON
+[19:27:50] : 측정요구3 OFF
+[19:27:52] : 측정요구4 ON
+[19:27:57] : 측정요구4 OFF
+[19:27:57] : 21,20181116-192757,CF18100853631,CF 18082613001,OK,MAX,2,3,0.00,7.00,1.90,OK,0.00,7.00,4.98,OK,
+[19:36:05] : MEAS ESC OFF
+[19:36:05] : AUTO RUNNING OFF
+[19:39:54] : MEAS ESC ON
+[19:39:54] : AUTO RUNNING ON
+[19:41:25] : Cycle start ON
+[19:41:26] : Cycle start OFF
+[19:41:26] : REQUEST MEAS. ON
+[19:41:31] : REQUEST MEAS. OFF
+[19:41:33] : 측정요구 ON 2
+[19:41:38] : 측정요구 2OFF
+[19:41:38] : 21,20181116-194138,CF18100851321,,OK,MAX,1,3,0.00,7.00,2.18,OK,0.00,7.00,4.58,OK,
+[20:04:14] : MEAS ESC OFF
+[20:04:14] : AUTO RUNNING OFF
+ 

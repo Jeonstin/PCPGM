@@ -1,0 +1,34 @@
+[19:43:17] : PROGRAM START
+[19:43:23] : Loading of library 'Orbit_IF.dll' Failed 
+[19:43:28] : TCP FAIL 1
+[19:43:35] : Amp Error Timer
+[19:43:38] : Amp Error Timer
+[19:43:41] : Amp Error Timer
+[19:43:44] : Amp Error Timer
+[19:43:47] : Amp Error Timer
+[19:43:50] : PROGRAM END
+ 
+[19:44:12] : PROGRAM START
+[19:44:18] : Loading of library 'Orbit_IF.dll' Failed 
+[19:44:23] : TCP FAIL 1
+[19:44:30] : Amp Error Timer
+[19:44:33] : Amp Error Timer
+[19:44:36] : Amp Error Timer
+[19:44:43] : Amp Error Timer
+[19:44:45] : PROGRAM END
+ 
+[19:45:15] : PROGRAM START
+[19:45:22] : Loading of library 'Orbit_IF.dll' Failed 
+[19:45:25] : TCP FAIL 1
+[19:45:33] : Amp Error Timer
+[19:45:36] : Amp Error Timer
+[19:45:45] : PROGRAM END
+ 
+[19:46:32] : PROGRAM START
+[19:46:42] : Loading of library 'Orbit_IF.dll' Failed 
+[19:46:45] : TCP FAIL 1
+[19:47:05] : Amp Error Timer
+[19:47:08] : Plc Error Timer
+[19:47:08] : Amp Error Timer
+[19:47:29] : PROGRAM END
+ 

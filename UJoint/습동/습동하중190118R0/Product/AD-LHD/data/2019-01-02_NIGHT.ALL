@@ -1,0 +1,9 @@
+Model  AD-LHD
+Point_Num   4
+    NAME   하중_PUSH(L)   하중_PULL(L)   하중_PUSH(R)   하중_PULL(R)               Time           Operator    RIGHT BARCODE         LEFT BARCODE          OK/NG
+    UNIT              2              2              2              2
+   K.TOL              0              0              0              0
+     USL           4.40           4.40           4.40           4.40
+     LSL           0.10           0.10           0.10           0.10
+       1           2.10           1.12           0.00           0.00   2019-01-02 20:22:44            남양공업                                              OK
+       2           0.00           0.00           0.76           0.33   2019-01-02 20:23:13            남양공업                                              OK

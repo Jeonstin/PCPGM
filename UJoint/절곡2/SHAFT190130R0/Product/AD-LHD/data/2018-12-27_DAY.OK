@@ -1,0 +1,10 @@
+Model  AD-LHD
+Point_Num   8
+    NAME     SHAFT_1_CW    SHAFT_1_CCW      TUBE_1_CW     TUBE_1_CCW     SHAFT_2_CW    SHAFT_2_CCW      TUBE_2_CW     TUBE_2_CCW               Time           Operator    TUBE BARCODE        SHAFT BARCODE          OK/NG
+    UNIT              2              2              2              2              2              2              2              2
+   K.TOL              0              0              0              0              0              0              0              0
+     USL           8.00           8.00           8.00           8.00           8.00           8.00           8.00           8.00
+     LSL           0.10           0.10           0.10           0.10           0.10           0.10           0.10           0.10
+       1           0.42           0.57           2.49           2.67           1.95           2.74           0.74           0.88   2018-12-27 11:47:18            남양공업                                              OK
+       2           0.42           0.57           2.49           2.67           1.77           2.74           0.74           0.88   2018-12-27 11:48:33            남양공업                                              OK
+       3           0.42           0.57           2.49           2.67           1.77           2.74           0.74           0.88   2018-12-27 11:51:42            남양공업                                              OK
