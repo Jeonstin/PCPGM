@@ -1,0 +1,7 @@
+Model  AXLE_LH
+Point_Num   3
+    NAME         U/ROUT         D/ROUT            DTV     Time           Operator    
+    UNIT              1              1              1
+   K.TOL              0              0              0
+     USL           40.0           40.0           30.0
+     LSL            0.1            0.1            0.1

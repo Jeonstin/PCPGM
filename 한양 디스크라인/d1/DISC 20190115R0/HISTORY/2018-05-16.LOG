@@ -1,0 +1,240 @@
+[05-16-2018] [09:16:30] : RESET ON
+[05-16-2018] [09:16:33] : MEAS ESC ON
+[05-16-2018] [09:16:33] : M3400	비상입니다. ON
+[05-16-2018] [10:46:37] : Plc Error Timer
+[05-16-2018] [10:47:04] : MEAS ESC OFF
+[05-16-2018] [10:47:04] : RESET ON
+[05-16-2018] [10:47:04] : M3400	비상입니다. OFF
+[05-16-2018] [11:05:04] : MEAS ESC ON
+[05-16-2018] [11:05:04] : M3400	비상입니다. ON
+[05-16-2018] [11:05:04] : M3401	MAIN AIR ALARM ON
+[05-16-2018] [11:05:25] : Plc Error Timer
+ 
+[05-16-2018] [14:00:13] : PROGRAM START
+[05-16-2018] [14:00:13] : load project PLC
+[05-16-2018] [14:00:14] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:00:18] : PROGRAM END
+ 
+[05-16-2018] [14:00:49] : PROGRAM START
+[05-16-2018] [14:00:49] : load project PLC
+[05-16-2018] [14:00:50] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:01:01] : PROGRAM END
+ 
+[05-16-2018] [14:01:57] : PROGRAM START
+[05-16-2018] [14:01:57] : load project PLC
+[05-16-2018] [14:01:58] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:02:08] : PROGRAM END
+ 
+[05-16-2018] [14:27:21] : PROGRAM START
+[05-16-2018] [14:27:21] : load project PLC
+[05-16-2018] [14:27:22] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:28:23] : PROGRAM END
+ 
+[05-16-2018] [14:41:32] : PROGRAM START
+[05-16-2018] [14:41:32] : load project PLC
+[05-16-2018] [14:41:33] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:41:51] : PROGRAM END
+ 
+[05-16-2018] [14:44:29] : PROGRAM START
+[05-16-2018] [14:44:29] : load project PLC
+[05-16-2018] [14:44:30] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:44:45] : PROGRAM END
+ 
+[05-16-2018] [14:58:14] : PROGRAM START
+[05-16-2018] [14:58:14] : load project PLC
+[05-16-2018] [14:58:15] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:58:20] : PROGRAM END
+ 
+[05-16-2018] [14:58:36] : PROGRAM START
+[05-16-2018] [14:58:36] : load project PLC
+[05-16-2018] [14:58:37] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [14:58:53] : PROGRAM END
+ 
+[05-16-2018] [15:05:18] : PROGRAM START
+[05-16-2018] [15:05:18] : load project PLC
+[05-16-2018] [15:05:20] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:05:42] : PROGRAM END
+ 
+[05-16-2018] [15:07:58] : PROGRAM START
+[05-16-2018] [15:07:58] : load project PLC
+[05-16-2018] [15:08:00] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:08:16] : Plc Error Timer
+[05-16-2018] [15:08:31] : PROGRAM END
+ 
+[05-16-2018] [15:09:41] : PROGRAM START
+[05-16-2018] [15:09:41] : load project PLC
+[05-16-2018] [15:09:42] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:09:51] : PROGRAM END
+ 
+[05-16-2018] [15:18:21] : PROGRAM START
+[05-16-2018] [15:18:21] : load project PLC
+[05-16-2018] [15:18:22] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:19:26] : Plc Error Timer
+[05-16-2018] [15:19:45] : PROGRAM END
+ 
+[05-16-2018] [15:28:15] : PROGRAM START
+[05-16-2018] [15:28:15] : load project PLC
+[05-16-2018] [15:28:16] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:28:43] : PROGRAM END
+ 
+[05-16-2018] [15:31:13] : PROGRAM START
+[05-16-2018] [15:31:13] : load project PLC
+[05-16-2018] [15:31:14] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [15:31:21] : PROGRAM END
+ 
+[05-16-2018] [16:31:42] : PROGRAM START
+[05-16-2018] [16:31:42] : load project PLC
+[05-16-2018] [16:31:42] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:32:23] : PROGRAM END
+ 
+[05-16-2018] [16:34:01] : PROGRAM START
+[05-16-2018] [16:34:01] : load project PLC
+[05-16-2018] [16:34:02] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:34:20] : PROGRAM END
+ 
+[05-16-2018] [16:35:51] : PROGRAM START
+[05-16-2018] [16:35:51] : load project PLC
+[05-16-2018] [16:35:52] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:36:00] : PROGRAM END
+ 
+[05-16-2018] [16:38:38] : PROGRAM START
+[05-16-2018] [16:38:38] : load project PLC
+[05-16-2018] [16:38:39] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:38:56] : PROGRAM END
+ 
+[05-16-2018] [16:39:32] : PROGRAM START
+[05-16-2018] [16:39:32] : load project PLC
+[05-16-2018] [16:39:33] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:39:50] : PROGRAM END
+ 
+[05-16-2018] [16:42:06] : PROGRAM START
+[05-16-2018] [16:42:06] : load project PLC
+[05-16-2018] [16:42:07] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:42:27] : PROGRAM END
+ 
+[05-16-2018] [16:43:26] : PROGRAM START
+[05-16-2018] [16:43:26] : load project PLC
+[05-16-2018] [16:43:27] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:43:41] : PROGRAM END
+ 
+[05-16-2018] [16:46:29] : PROGRAM START
+[05-16-2018] [16:46:29] : load project PLC
+[05-16-2018] [16:46:30] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:46:39] : PROGRAM END
+ 
+[05-16-2018] [16:48:10] : PROGRAM START
+[05-16-2018] [16:48:10] : load project PLC
+[05-16-2018] [16:48:11] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:48:18] : Plc Error Timer
+[05-16-2018] [16:48:36] : PROGRAM END
+ 
+[05-16-2018] [16:50:54] : PROGRAM START
+[05-16-2018] [16:50:54] : load project PLC
+[05-16-2018] [16:50:55] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:51:06] : PROGRAM END
+ 
+[05-16-2018] [16:52:30] : PROGRAM START
+[05-16-2018] [16:52:30] : load project PLC
+[05-16-2018] [16:52:30] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:54:22] : PROGRAM END
+ 
+[05-16-2018] [16:56:58] : PROGRAM START
+[05-16-2018] [16:56:58] : load project PLC
+[05-16-2018] [16:56:59] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [16:57:57] : PROGRAM END
+ 
+[05-16-2018] [17:09:31] : PROGRAM START
+[05-16-2018] [17:09:31] : load project PLC
+[05-16-2018] [17:09:32] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:09:38] : Plc Error Timer
+[05-16-2018] [17:10:16] : PROGRAM END
+ 
+[05-16-2018] [17:11:34] : PROGRAM START
+[05-16-2018] [17:11:34] : load project PLC
+[05-16-2018] [17:11:35] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:11:48] : PROGRAM END
+ 
+[05-16-2018] [17:12:24] : PROGRAM START
+[05-16-2018] [17:12:24] : load project PLC
+[05-16-2018] [17:12:24] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:12:36] : PROGRAM END
+ 
+[05-16-2018] [17:26:57] : PROGRAM START
+[05-16-2018] [17:26:57] : load project PLC
+[05-16-2018] [17:26:58] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:27:05] : Plc Error Timer
+[05-16-2018] [17:30:59] : Plc Error Timer
+[05-16-2018] [17:31:14] : Plc Error Timer
+[05-16-2018] [17:31:52] : PROGRAM END
+ 
+[05-16-2018] [17:33:00] : PROGRAM START
+[05-16-2018] [17:33:00] : load project PLC
+[05-16-2018] [17:33:01] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:33:07] : PROGRAM END
+ 
+[05-16-2018] [17:33:19] : PROGRAM START
+[05-16-2018] [17:33:19] : load project PLC
+[05-16-2018] [17:33:19] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:35:27] : PROGRAM END
+ 
+[05-16-2018] [17:44:14] : PROGRAM START
+[05-16-2018] [17:44:14] : load project PLC
+[05-16-2018] [17:44:15] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:44:22] : Plc Error Timer
+[05-16-2018] [17:44:40] : PROGRAM END
+ 
+[05-16-2018] [17:45:08] : PROGRAM START
+[05-16-2018] [17:45:08] : load project PLC
+[05-16-2018] [17:45:09] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:45:18] : PROGRAM END
+ 
+[05-16-2018] [17:46:55] : PROGRAM START
+[05-16-2018] [17:46:55] : load project PLC
+[05-16-2018] [17:46:56] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [17:47:08] : PROGRAM END
+ 
+[05-16-2018] [18:43:22] : PROGRAM START
+[05-16-2018] [18:43:22] : load project PLC
+[05-16-2018] [18:43:22] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:43:27] : PROGRAM END
+ 
+[05-16-2018] [18:46:00] : PROGRAM START
+[05-16-2018] [18:46:00] : load project PLC
+[05-16-2018] [18:46:01] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:46:16] : PROGRAM END
+ 
+[05-16-2018] [18:47:36] : PROGRAM START
+[05-16-2018] [18:47:36] : load project PLC
+[05-16-2018] [18:47:37] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:47:49] : PROGRAM END
+ 
+[05-16-2018] [18:49:33] : PROGRAM START
+[05-16-2018] [18:49:33] : load project PLC
+[05-16-2018] [18:49:34] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:49:39] : PROGRAM END
+ 
+[05-16-2018] [18:52:14] : PROGRAM START
+[05-16-2018] [18:52:14] : load project PLC
+[05-16-2018] [18:52:15] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:52:23] : PROGRAM END
+ 
+[05-16-2018] [18:57:05] : PROGRAM START
+[05-16-2018] [18:57:05] : load project PLC
+[05-16-2018] [18:57:05] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:57:17] : PROGRAM END
+ 
+[05-16-2018] [18:57:46] : PROGRAM START
+[05-16-2018] [18:57:46] : load project PLC
+[05-16-2018] [18:57:47] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:57:53] : PROGRAM END
+ 
+[05-16-2018] [18:58:48] : PROGRAM START
+[05-16-2018] [18:58:48] : load project PLC
+[05-16-2018] [18:58:49] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:58:53] : PROGRAM END
+ 
+[05-16-2018] [18:59:19] : PROGRAM START
+[05-16-2018] [18:59:19] : load project PLC
+[05-16-2018] [18:59:19] : Loading of library 'Orbit_IF.dll' Failed 
+[05-16-2018] [18:59:28] : PROGRAM END
+ 

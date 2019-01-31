@@ -1,0 +1,7 @@
+Model  AXLE_1
+Point_Num   1
+    NAME         U/ROUT     Time           Operator    
+    UNIT              1
+   K.TOL              0
+     USL           40.0
+     LSL            0.1
