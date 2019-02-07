@@ -1,6 +1,6 @@
 
 10   
-2    
+0    
 8    
 1    
 남양공업
@@ -9,8 +9,8 @@ AD-RHD
 DN8-LHD
 DN8-RHD
 DN8A-LHD
-DN8-L
-DN8-L
-DN8-L
-DN8-L
+DN8-L1
+DN8-L2
+DN8-L3
+DN8-L4
 MASTER
