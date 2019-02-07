@@ -173,7 +173,6 @@
 #define  INTPANEL_LINE_NAME               117     /* control type: numeric, callback function: (none) */
 #define  INTPANEL_LOWLOG                  118     /* control type: binary, callback function: (none) */
 #define  INTPANEL_DATA_WEIGHT             119     /* control type: numeric, callback function: Keypad */
-#define  INTPANEL_TOGGLEBUTTON            120     /* control type: textButton, callback function: (none) */
 
 #define  LAN_SET                          6       /* callback function: Lan_Set */
 #define  LAN_SET_CLOSE                    2       /* control type: command, callback function: Close */
